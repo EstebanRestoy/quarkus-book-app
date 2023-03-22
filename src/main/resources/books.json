@@ -1,191 +1,1522 @@
 [
-{"titre": "Kilom\u00e8tre z\u00e9ro", "image": "//servimg.eyrolles.com/static/media/0512/9782290210512_internet_b200x200.jpg", "auteur": "Maud Ankaoua", "editeur": "Maud Ankaoua", "date": "02/10/2019", "prix": "9"},
-{"titre": "L'encul\u00e9", "image": "//servimg.eyrolles.com/static/media/7916/9782953487916_internet_b200x200.jpg", "auteur": "Marc-Edouard Nabe", "editeur": "Marc-Edouard Nabe", "date": "29/09/2011", "prix": "0"},
-{"titre": "Toutes les familles heureuses", "image": "//servimg.eyrolles.com/static/media/0815/9782709660815_internet_b200x200.jpg", "auteur": "Herv\u00e9 Letellier", "editeur": "JC Latt\u00e8s", "date": "23/08/2017", "prix": "0"},
-{"titre": "Argent sale : la traque", "image": "//servimg.eyrolles.com/static/media/6886/9782213716886_internet_b200x200.jpg", "auteur": "Quentin Mugg", "editeur": "Fayard", "date": "20/01/2021", "prix": "0"},
-{"titre": "Le train des enfants", "image": "//servimg.eyrolles.com/static/media/5100/9782253935100_internet_b200x200.jpg", "auteur": "Viola Ardone", "editeur": "LGF - Le livre de poche", "date": "01/06/2022", "prix": "7"},
-{"titre": "Et quand viendra la fin du voyage...", "image": "//servimg.eyrolles.com/static/media/3480/9782213633480_internet_b200x200.jpg", "auteur": "R\u00e9gine Deforges", "editeur": "Fayard", "date": "02/05/2007", "prix": "0"},
-{"titre": "Noir", "image": "//servimg.eyrolles.com/static/media/4786/9782266324786_internet_b200x200.jpg", "auteur": " Koz", "editeur": "Pocket", "date": "12/05/2022", "prix": "3"},
-{"titre": "Chef d'\u00e9tablissement SNCF, 1953-1993", "image": "//servimg.eyrolles.com/static/media/0254/9782747540254_internet_b200x200.jpg", "auteur": "Daniel Brigot", "editeur": "L'Harmattan", "date": "01/11/2003", "prix": "0"},
-{"titre": "J'aime le sport de petit niveau", "image": "//servimg.eyrolles.com/static/media/5127/9782749165127_internet_b200x200.jpg", "auteur": "Boris Cyrulnik", "editeur": "Le Cherche Midi", "date": "05/03/2020", "prix": "0"},
-{"titre": "L'art d'\u00e9crire des ha\u00efkus", "image": "//servimg.eyrolles.com/static/media/7774/9782416007774_internet_b200x200.jpg", "auteur": "Dani\u00e8le Duteil", "editeur": "Eyrolles", "date": "16/02/2023", "prix": "0"},
-{"titre": "Vivre \u00e0 l'endroit", "image": "//servimg.eyrolles.com/static/media/2438/9782212572438_internet_b200x200.jpg", "auteur": "Juliette Allais", "editeur": "Eyrolles", "date": "07/04/2022", "prix": "0"},
-{"titre": "La pointe du diamant", "image": "//servimg.eyrolles.com/static/media/3925/9782915243925_internet_b200x200.jpg", "auteur": "Yannick Piart", "editeur": "Nimrod", "date": "14/10/2017", "prix": "0"},
-{"titre": "Il \u00e9tait une fois la guerre", "image": "//servimg.eyrolles.com/static/media/1103/9782372581103_internet_b200x200.jpg", "auteur": "Estelle Tharreau", "editeur": "Taurnada", "date": "03/11/2022", "prix": "9"},
-{"titre": "Les export\u00e9s", "image": "//servimg.eyrolles.com/static/media/3207/9782080283207_internet_b200x200.jpg", "auteur": "Sonia Devillers", "editeur": "Flammarion", "date": "31/08/2022", "prix": "0"},
-{"titre": "Plus jamais sans moi", "image": "//servimg.eyrolles.com/static/media/8382/9782416008382_internet_b200x200.jpg", "auteur": "Maud Ankaoua", "editeur": "Eyrolles", "date": "05/01/2023", "prix": "9"},
-{"titre": "Passag\u00e8re du silence", "image": "//servimg.eyrolles.com/static/media/4666/9782253114666_internet_b200x200.jpg", "auteur": "Fabienne Verdier", "editeur": "LGF - Le livre de poche", "date": "05/10/2005", "prix": "9"},
-{"titre": "2001 L'odyss\u00e9e de l'espace", "image": "//servimg.eyrolles.com/static/media/6975/9782730216975_internet_b200x200.jpg", "auteur": "Christopher Robinson", "editeur": "Les \u00e9ditions de l'Ecole polytechnique", "date": "03/03/2022", "prix": "0"},
-{"titre": "Le pari de l'impossible", "image": "//servimg.eyrolles.com/static/media/3994/9782915243994_internet_b200x200.jpg", "auteur": "Romain Bethoux", "editeur": "Nimrod", "date": "26/03/2018", "prix": "0"},
-{"titre": "Un jour, j'ai perdu les cl\u00e9s de chez moi...", "image": "//servimg.eyrolles.com/static/media/1178/9782416001178_internet_b200x200.jpg", "auteur": " Mademoiselle Smoothie", "editeur": " Mademoiselle Smoothie", "date": "20/05/2021", "prix": "9"},
-{"titre": "Le Chat, c'est moi...", "image": "//servimg.eyrolles.com/static/media/2907/9782203162907_internet_b200x200.jpg", "auteur": "Philippe Geluck", "editeur": "Casterman", "date": "06/12/2017", "prix": "5"},
-{"titre": "Monsieur Edgar et les impatients", "image": "//servimg.eyrolles.com/static/media/3264/9782416003264_internet_b200x200.jpg", "auteur": "Coralie Caujolle", "editeur": "Eyrolles", "date": "06/01/2022", "prix": "0"},
-{"titre": "Alex", "image": "//servimg.eyrolles.com/static/media/6443/9782253166443_internet_b200x200.jpg", "auteur": "Pierre Lemaitre", "editeur": "LGF - Le livre de poche", "date": "02/05/2012", "prix": "9"},
-{"titre": "Kilom\u00e8tre z\u00e9ro", "image": "//servimg.eyrolles.com/static/media/7434/9782212567434_internet_b200x200.jpg", "auteur": "Maud Ankaoua", "editeur": "Maud Ankaoua", "date": "21/09/2017", "prix": "0"},
-{"titre": "L'histoire mondiale des riches", "image": "//servimg.eyrolles.com/static/media/1649/9782259311649_internet_b200x200.jpg", "auteur": "Fabrice d'Almeida", "editeur": "Plon", "date": "13/10/2022", "prix": "9"},
-{"titre": "Les lions en hiver", "image": "//servimg.eyrolles.com/static/media/4988/9782226474988_internet_b200x200.jpg", "auteur": "Stefania Auci", "editeur": "Albin Michel", "date": "02/11/2022", "prix": "9"},
-{"titre": "Trois jours et une vie", "image": "//servimg.eyrolles.com/static/media/0825/9782253070825_internet_b200x200.jpg", "auteur": "Pierre Lemaitre", "editeur": "LGF - Le livre de poche", "date": "22/03/2017", "prix": "7"},
-{"titre": "Le silence et la col\u00e8re", "image": "//servimg.eyrolles.com/static/media/3618/9782702183618_internet_b200x200.jpg", "auteur": "Pierre Lemaitre", "editeur": "Calmann-L\u00e9vy", "date": "10/01/2023", "prix": "9"},
-{"titre": "Toute la lumi\u00e8re que nous ne pouvons voir", "image": "//servimg.eyrolles.com/static/media/5281/9782253045281_internet_b200x200.jpg", "auteur": "Anthony Doerr", "editeur": "LGF - Le livre de poche", "date": "28/09/2016", "prix": "4"},
-{"titre": "Il est grand temps de rallumer les \u00e9toiles", "image": "//servimg.eyrolles.com/static/media/0492/9782253100492_internet_b200x200.jpg", "auteur": "Virginie Grimaldi", "editeur": "LGF - Le livre de poche", "date": "02/05/2019", "prix": "9"},
-{"titre": "A travers les champs bleus", "image": "//servimg.eyrolles.com/static/media/1185/9782848051185_internet_b200x200.jpg", "auteur": "Claire Keegan", "editeur": "Sabine Wespieser \u00e9diteur", "date": "04/10/2012", "prix": "0"},
-{"titre": "Les possibles", "image": "//servimg.eyrolles.com/static/media/1966/9782253241966_internet_b200x200.jpg", "auteur": "Virginie Grimaldi", "editeur": "LGF - Le livre de poche", "date": "04/05/2022", "prix": "2"},
-{"titre": "Le travail, enjeu des retraites", "image": "//servimg.eyrolles.com/static/media/3025/9782843033025_internet_b200x200.jpg", "auteur": "Bernard Friot", "editeur": "La Dispute", "date": "14/03/2019", "prix": "0"},
-{"titre": "D\u00e9sert", "image": "//servimg.eyrolles.com/static/media/6704/9782070376704_internet_b200x200.jpg", "auteur": "Jean-Marie Gustave Le Cl\u00e9zio", "editeur": "Gallimard", "date": "24/09/1985", "prix": "7"},
-{"titre": "Le proc\u00e8s-verbal", "image": "//servimg.eyrolles.com/static/media/3537/9782070363537_internet_b200x200.jpg", "auteur": "Jean-Marie Gustave Le Cl\u00e9zio", "editeur": "Gallimard", "date": "16/03/1973", "prix": "2"},
-{"titre": "Verre cass\u00e9", "image": "//servimg.eyrolles.com/static/media/4500/9782757864500_internet_b200x200.jpg", "auteur": "Alain Mabanckou", "editeur": "Seuil", "date": "15/06/2017", "prix": "2"},
-{"titre": "L'art du baiser", "image": "//servimg.eyrolles.com/static/media/0870/9782070440870_internet_b200x200.jpg", "auteur": "Philippe Sollers", "editeur": "Gallimard", "date": "05/01/2011", "prix": "0"},
-{"titre": "Par-dessus bord", "image": "//servimg.eyrolles.com/static/media/7448/9782330167448_internet_b200x200.jpg", "auteur": "Michel Vinaver", "editeur": "Actes Sud", "date": "01/06/2022", "prix": "7"},
-{"titre": "Au gr\u00e9 des jours", "image": "//servimg.eyrolles.com/static/media/9566/9782738139566_internet_b200x200.jpg", "auteur": "Fran\u00e7oise H\u00e9ritier", "editeur": "Odile Jacob", "date": "18/10/2017", "prix": "9"},
-{"titre": "Retour de service", "image": "//servimg.eyrolles.com/static/media/9251/9782757889251_internet_b200x200.jpg", "auteur": "John Le Carr\u00e9", "editeur": "Seuil", "date": "17/06/2021", "prix": "9"},
-{"titre": "L'Antarctique", "image": "//servimg.eyrolles.com/static/media/0836/9782848050836_internet_b200x200.jpg", "auteur": "Claire Keegan", "editeur": "Sabine Wespieser \u00e9diteur", "date": "06/05/2010", "prix": "3"},
-{"titre": "Les trois lumi\u00e8res", "image": "//servimg.eyrolles.com/static/media/0959/9782848050959_internet_b200x200.jpg", "auteur": "Claire Keegan", "editeur": "Sabine Wespieser \u00e9diteur", "date": "07/04/2011", "prix": "2"},
-{"titre": "Gataca", "image": "//servimg.eyrolles.com/static/media/7605/9782266227605_internet_b200x200.jpg", "auteur": "Franck Thilliez", "editeur": "Pocket", "date": "12/04/2012", "prix": "5"},
-{"titre": "Foutriquet", "image": "//servimg.eyrolles.com/static/media/2106/9782226472106_internet_b200x200.jpg", "auteur": "Michel Onfray", "editeur": "Albin Michel", "date": "02/03/2022", "prix": "9"},
-{"titre": "La vengeance du pangolin", "image": "//servimg.eyrolles.com/static/media/7408/9782290357408_internet_b200x200.jpg", "auteur": "Michel Onfray", "editeur": "J'ai lu", "date": "16/03/2022", "prix": "2"},
-{"titre": "Dora Bruder", "image": "//servimg.eyrolles.com/static/media/8481/9782070408481_internet_b200x200.jpg", "auteur": "Patrick Modiano", "editeur": "Gallimard", "date": "02/04/1999", "prix": "5"},
-{"titre": "Les impatientes", "image": "//servimg.eyrolles.com/static/media/2949/9782290252949_internet_b200x200.jpg", "auteur": "Dja\u00efli Amadou Amal", "editeur": "J'ai lu", "date": "05/01/2022", "prix": "9"},
-{"titre": "Quand la brume se d\u00e9chire", "image": "//servimg.eyrolles.com/static/media/9697/9791090119697_internet_b200x200.jpg", "auteur": "Eleonore Demey", "editeur": "Editions du Palais", "date": "02/10/2020", "prix": "0"},
-{"titre": "Voyage aux fronti\u00e8res de la vie", "image": "//servimg.eyrolles.com/static/media/6426/9782757896426_internet_b200x200.jpg", "auteur": "Nathalie A. Cabrol", "editeur": "Seuil", "date": "06/01/2023", "prix": "9"},
-{"titre": "Le cr\u00e9puscule et l'aube", "image": "//servimg.eyrolles.com/static/media/1556/9782253071556_internet_b200x200.jpg", "auteur": "Ken Follett", "editeur": "LGF - Le livre de poche", "date": "05/01/2022", "prix": "4"},
-{"titre": "Le scandale Modigliani", "image": "//servimg.eyrolles.com/static/media/9735/9782253159735_internet_b200x200.jpg", "auteur": "Ken Follett", "editeur": "LGF - Le livre de poche", "date": "18/05/2011", "prix": "2"},
-{"titre": "Comment sont morts les politiques ?", "image": "//servimg.eyrolles.com/static/media/2519/9782204142519_internet_b200x200.jpg", "auteur": "Arnaud Benedetti", "editeur": "Cerf", "date": "04/11/2021", "prix": "0"},
-{"titre": "L'ordre n\u00e9cessaire", "image": "//servimg.eyrolles.com/static/media/4133/9782221264133_internet_b200x200.jpg", "auteur": "Didier Lallement", "editeur": "Robert Laffont", "date": "20/10/2022", "prix": "0"},
-{"titre": "Police : la loi de l'omerta", "image": "//servimg.eyrolles.com/static/media/4815/9782749174815_internet_b200x200.jpg", "auteur": "Agn\u00e8s Naudin", "editeur": "Le Cherche Midi", "date": "01/12/2022", "prix": "5"},
-{"titre": "L'\u00e9ternit\u00e9 n'est pas de trop", "image": "//servimg.eyrolles.com/static/media/4587/9782253154587_internet_b200x200.jpg", "auteur": "Fran\u00e7ois Cheng", "editeur": "LGF - Le livre de poche", "date": "29/10/2003", "prix": "7"},
-{"titre": "Les trois femmes du Consul", "image": "//servimg.eyrolles.com/static/media/3248/9782072883248_internet_b200x200.jpg", "auteur": "Jean-Christophe Rufin", "editeur": "Gallimard", "date": "08/04/2021", "prix": "7"},
-{"titre": "Le suspendu de Conakry", "image": "//servimg.eyrolles.com/static/media/5313/9782072785313_internet_b200x200.jpg", "auteur": "Jean-Christophe Rufin", "editeur": "Gallimard", "date": "15/08/2019", "prix": "7"},
-{"titre": "Le murmure du vent", "image": "//servimg.eyrolles.com/static/media/1242/9782253071242_internet_b200x200.jpg", "auteur": "Karen Viggers", "editeur": "LGF - Le livre de poche", "date": "28/03/2018", "prix": "4"},
-{"titre": "L'entreprise contributive", "image": "//servimg.eyrolles.com/static/media/3626/9782100843626_internet_b200x200.jpg", "auteur": "Fabrice Bonnifet", "editeur": "Dunod", "date": "04/05/2022", "prix": "9"},
-{"titre": "La douleur", "image": "//servimg.eyrolles.com/static/media/1099/9782070441099_internet_b200x200.jpg", "auteur": "Marguerite Duras", "editeur": "Gallimard", "date": "13/05/2011", "prix": "1"},
-{"titre": "Rivi\u00e8re d'automne", "image": "//servimg.eyrolles.com/static/media/6221/9782809716221_internet_b200x200.jpg", "auteur": "Yu Dafu", "editeur": "Philippe Picquier", "date": "06/01/2023", "prix": "5"},
-{"titre": "Les lames", "image": "//servimg.eyrolles.com/static/media/3911/9782266223911_internet_b200x200.jpg", "auteur": "Mo Hayder", "editeur": "Pocket", "date": "14/06/2012", "prix": "2"},
-{"titre": "Oiseau de nuit", "image": "//servimg.eyrolles.com/static/media/0209/9782266300209_internet_b200x200.jpg", "auteur": "Robert Bryndza", "editeur": "Pocket", "date": "09/01/2020", "prix": "6"},
-{"titre": "Le bonhomme de neige", "image": "//servimg.eyrolles.com/static/media/7987/9782070427987_internet_b200x200.jpg", "auteur": "Jo Nesbo", "editeur": "Jo Nesbo", "date": "11/02/2010", "prix": "7"},
-{"titre": "Chasseurs de t\u00eates", "image": "//servimg.eyrolles.com/static/media/1143/9782070441143_internet_b200x200.jpg", "auteur": "Jo Nesbo", "editeur": "Gallimard", "date": "03/02/2011", "prix": "7"},
-{"titre": "Sans un mot", "image": "//servimg.eyrolles.com/static/media/2987/9782714442987_internet_b200x200.jpg", "auteur": "Harlan Coben", "editeur": "Belfond", "date": "05/03/2009", "prix": "9"},
-{"titre": "10 ans pour \u00e7a !", "image": "//servimg.eyrolles.com/static/media/1412/9782350131412_internet_b200x200.jpg", "auteur": " Wiaz", "editeur": "Jean-Claude Gawsewitch", "date": "12/11/2009", "prix": "2"},
-{"titre": "Brume", "image": "//servimg.eyrolles.com/static/media/6003/9782226186003_internet_b200x200.jpg", "auteur": "Stephen King", "editeur": "Albin Michel", "date": "27/02/2008", "prix": "9"},
-{"titre": "Le choeur des femmes", "image": "//servimg.eyrolles.com/static/media/0399/9782070440399_internet_b200x200.jpg", "auteur": "Martin Winckler", "editeur": "Gallimard", "date": "10/02/2011", "prix": "9"},
-{"titre": "Sans amour : r\u00e9cit", "image": "//servimg.eyrolles.com/static/media/0560/9782207110560_internet_b200x200.jpg", "auteur": "Pierre Pachet", "editeur": "Deno\u00ebl", "date": "24/02/2011", "prix": "4"},
-{"titre": "Endgame", "image": "//servimg.eyrolles.com/static/media/2159/9782070662159_internet_b200x200.jpg", "auteur": "James Frey", "editeur": "Gallimard", "date": "09/10/2014", "prix": "9"},
-{"titre": "Ne l\u00e2che pas ma main", "image": "//servimg.eyrolles.com/static/media/9944/9782258099944_internet_b200x200.jpg", "auteur": "Michel Bussi", "editeur": "Presses de la cit\u00e9", "date": "07/03/2013", "prix": "9"},
-{"titre": "L'\u00e9t\u00e9 tous les chats s'ennuient", "image": "//servimg.eyrolles.com/static/media/4601/9782914704601_internet_b200x200.jpg", "auteur": "Philippe Georget", "editeur": "Jigal", "date": "07/10/2009", "prix": "2"},
-{"titre": "Une offrande \u00e0 la temp\u00eate", "image": "//servimg.eyrolles.com/static/media/8183/9782072708183_internet_b200x200.jpg", "auteur": "Dolores Redondo", "editeur": "Gallimard", "date": "16/03/2017", "prix": "7"},
-{"titre": "Le gardien invisible", "image": "//servimg.eyrolles.com/static/media/1691/9782070461691_internet_b200x200.jpg", "auteur": "Dolores Redondo", "editeur": "Gallimard", "date": "15/01/2015", "prix": "7"},
-{"titre": "Un bleu en politique", "image": "//servimg.eyrolles.com/static/media/2236/9782258082236_internet_b200x200.jpg", "auteur": "Bernard Laporte", "editeur": "Presses de la cit\u00e9", "date": "12/11/2009", "prix": "9"},
-{"titre": "Mon voisin", "image": "//servimg.eyrolles.com/static/media/5000/9782867465000_internet_b200x200.jpg", "auteur": "Milena Agus", "editeur": "Liana Levi", "date": "08/01/2009", "prix": "9"},
-{"titre": "La fabrique de souvenirs", "image": "//servimg.eyrolles.com/static/media/3662/9782081203662_internet_b200x200.jpg", "auteur": "Philippe Pollet-Villard", "editeur": "Flammarion", "date": "16/01/2008", "prix": "4"},
-{"titre": "Le g\u00e9nie des coincidences", "image": "//servimg.eyrolles.com/static/media/6008/9782264066008_internet_b200x200.jpg", "auteur": "John Ironmonger", "editeur": "10/18", "date": "04/02/2016", "prix": "9"},
-{"titre": "Coups pour coups", "image": "//servimg.eyrolles.com/static/media/1544/9782354171544_internet_b200x200.jpg", "auteur": "Nicolas Barotte", "editeur": "Editions du moment", "date": "10/05/2012", "prix": "9"},
-{"titre": "L'amour du tennis", "image": "//servimg.eyrolles.com/static/media/0959/9782259210959_internet_b200x200.jpg", "auteur": "Patrice Dominguez", "editeur": "Plon", "date": "05/05/2011", "prix": "9"},
-{"titre": "Couronne de coeurs", "image": "//servimg.eyrolles.com/static/media/8088/9782706148088_internet_b200x200.jpg", "auteur": "Isabelle Poirot", "editeur": "Presses Universitaires de Grenoble (PUG)", "date": "29/04/2020", "prix": "0"},
-{"titre": "Sharko / Henebelle, couple de flics", "image": "//servimg.eyrolles.com/static/media/0351/9782823860351_internet_b200x200.jpg", "auteur": "Franck Thilliez", "editeur": null, "date": "13/04/2017", "prix": "0"},
-{"titre": "L'aplatissement du monde", "image": "//servimg.eyrolles.com/static/media/5931/9782021505931_internet_b200x200.jpg", "auteur": "Olivier Roy", "editeur": "Seuil", "date": "14/10/2022", "prix": "5"},
-{"titre": "Donne-nous aujourd'hui notre soin covidien !", "image": "//servimg.eyrolles.com/static/media/8125/9782706148125_internet_b200x200.jpg", "auteur": "Nicolas Pinsault", "editeur": "Presses Universitaires de Grenoble (PUG)", "date": "29/04/2020", "prix": "0"},
-{"titre": "Petite lecture ryhtmique de l'archipel du confinement", "image": "//servimg.eyrolles.com/static/media/8255/9782706148255_internet_b200x200.jpg", "auteur": "Luc Gwiazdzinski", "editeur": "Presses Universitaires de Grenoble (PUG)", "date": "29/04/2020", "prix": "0"},
-{"titre": "la vie et demie", "image": "//servimg.eyrolles.com/static/media/4477/9782757894477_internet_b200x200.jpg", "auteur": "Sony Labou Tansi", "editeur": "Points", "date": "23/09/2022", "prix": "8"},
-{"titre": "Ce que le Covid-19 fait au num\u00e9rique", "image": "//servimg.eyrolles.com/static/media/8347/9782706148347_internet_b200x200.jpg", "auteur": "Bertrand Legendre", "editeur": "Presses Universitaires de Grenoble (PUG)", "date": "29/04/2020", "prix": "0"},
-{"titre": "Chelsea girls", "image": "//servimg.eyrolles.com/static/media/6144/9782364686144_internet_b200x200.jpg", "auteur": "Eileen Myles", "editeur": "Editions du sous-sol", "date": "02/09/2022", "prix": "0"},
-{"titre": "Au plus beau pays du monde", "image": "//servimg.eyrolles.com/static/media/9164/9782021479164_internet_b200x200.jpg", "auteur": "Tahar Ben Jelloun", "editeur": "Seuil", "date": "07/10/2022", "prix": "0"},
-{"titre": "Un doute et une certitude", "image": "//servimg.eyrolles.com/static/media/2234/9791022612234_internet_b200x200.jpg", "auteur": "Luis Sepulveda", "editeur": "M\u00e9taili\u00e9", "date": "14/10/2022", "prix": "8"},
-{"titre": "Plus jamais sans moi", "image": "//servimg.eyrolles.com/static/media/8382/9782416008382_internet_b200x200.jpg", "auteur": "Maud Ankaoua", "editeur": "Eyrolles", "date": "05/01/2023", "prix": "9"},
-{"titre": "Temps calme, pleine temp\u00eate", "image": "//servimg.eyrolles.com/static/media/9136/9782021519136_internet_b200x200.jpg", "auteur": "Seuil", "editeur": null, "date": "06/01/2023", "prix": "0"},
-{"titre": "L'appartement", "image": "//servimg.eyrolles.com/static/media/6537/9782843046537_internet_b200x200.jpg", "auteur": "Zoy\u00e2 Pirz\u00e2d", "editeur": null, "date": "20/06/2013", "prix": "9"},
-{"titre": "Petits arrangements intra-galactiques", "image": "//servimg.eyrolles.com/static/media/2145/9782366292145_internet_b200x200.jpg", "auteur": "Sylvie Lain\u00e9", "editeur": "ActuSF", "date": "21/11/2012", "prix": "9"},
-{"titre": "Honnis soient-ils !", "image": "//servimg.eyrolles.com/static/media/2046/9782379612046_internet_b200x200.jpg", "auteur": "Patricia Le Sausse", "editeur": "Elixyria", "date": "12/05/2020", "prix": "9"},
-{"titre": "L'embuscade", "image": "//servimg.eyrolles.com/static/media/3528/9791033913528_internet_b200x200.jpg", "auteur": "Emilie Guillaumin", "editeur": "HarperCollins", "date": "04/01/2023", "prix": "5"},
-{"titre": "Arcadia", "image": "//servimg.eyrolles.com/static/media/5562/9782823615562_internet_b200x200.jpg", "auteur": "Lauren Groff", "editeur": "Editions de l'Olivier", "date": "06/01/2023", "prix": "9"},
-{"titre": "Seul entour\u00e9 de chiens qui mordent", "image": "//servimg.eyrolles.com/static/media/4026/9782757894026_internet_b200x200.jpg", "auteur": "David Thomas", "editeur": "Seuil", "date": "06/01/2023", "prix": "9"},
-{"titre": "La naissance du jour", "image": "//servimg.eyrolles.com/static/media/3529/9782080413529_internet_b200x200.jpg", "auteur": " Colette", "editeur": "Flammarion", "date": "04/01/2023", "prix": "5"},
-{"titre": "La fin de ch\u00e9ri", "image": "//servimg.eyrolles.com/static/media/3536/9782080413536_internet_b200x200.jpg", "auteur": " Colette", "editeur": "Flammarion", "date": "04/01/2023", "prix": "0"},
-{"titre": "Matrix", "image": "//servimg.eyrolles.com/static/media/8334/9782823618334_internet_b200x200.jpg", "auteur": "Lauren Groff", "editeur": "Editions de l'Olivier", "date": "06/01/2023", "prix": "5"},
-{"titre": "Trio des ardents", "image": "//servimg.eyrolles.com/static/media/3508/9782021523508_internet_b200x200.jpg", "auteur": "Patrick Grainville", "editeur": "Seuil", "date": "06/01/2023", "prix": "5"},
-{"titre": "Alex", "image": "//servimg.eyrolles.com/static/media/6443/9782253166443_internet_b200x200.jpg", "auteur": "Pierre Lemaitre", "editeur": "LGF - Le livre de poche", "date": "02/05/2012", "prix": "9"},
-{"titre": "Kilom\u00e8tre z\u00e9ro", "image": "//servimg.eyrolles.com/static/media/7434/9782212567434_internet_b200x200.jpg", "auteur": "Maud Ankaoua", "editeur": "Maud Ankaoua", "date": "21/09/2017", "prix": "0"},
-{"titre": "L'histoire mondiale des riches", "image": "//servimg.eyrolles.com/static/media/1649/9782259311649_internet_b200x200.jpg", "auteur": "Fabrice d'Almeida", "editeur": "Plon", "date": "13/10/2022", "prix": "9"},
-{"titre": "Les lions en hiver", "image": "//servimg.eyrolles.com/static/media/4988/9782226474988_internet_b200x200.jpg", "auteur": "Stefania Auci", "editeur": "Albin Michel", "date": "02/11/2022", "prix": "9"},
-{"titre": "Trois jours et une vie", "image": "//servimg.eyrolles.com/static/media/0825/9782253070825_internet_b200x200.jpg", "auteur": "Pierre Lemaitre", "editeur": "LGF - Le livre de poche", "date": "22/03/2017", "prix": "7"},
-{"titre": "Le silence et la col\u00e8re", "image": "//servimg.eyrolles.com/static/media/3618/9782702183618_internet_b200x200.jpg", "auteur": "Pierre Lemaitre", "editeur": "Calmann-L\u00e9vy", "date": "10/01/2023", "prix": "9"},
-{"titre": "Toute la lumi\u00e8re que nous ne pouvons voir", "image": "//servimg.eyrolles.com/static/media/5281/9782253045281_internet_b200x200.jpg", "auteur": "Anthony Doerr", "editeur": "LGF - Le livre de poche", "date": "28/09/2016", "prix": "4"},
-{"titre": "Il est grand temps de rallumer les \u00e9toiles", "image": "//servimg.eyrolles.com/static/media/0492/9782253100492_internet_b200x200.jpg", "auteur": "Virginie Grimaldi", "editeur": "LGF - Le livre de poche", "date": "02/05/2019", "prix": "9"},
-{"titre": "Les possibles", "image": "//servimg.eyrolles.com/static/media/1966/9782253241966_internet_b200x200.jpg", "auteur": "Virginie Grimaldi", "editeur": "LGF - Le livre de poche", "date": "04/05/2022", "prix": "2"},
-{"titre": "Le travail, enjeu des retraites", "image": "//servimg.eyrolles.com/static/media/3025/9782843033025_internet_b200x200.jpg", "auteur": "Bernard Friot", "editeur": "La Dispute", "date": "14/03/2019", "prix": "0"},
-{"titre": "Temp\u00eates et brouillards", "image": "//servimg.eyrolles.com/static/media/7655/9782732497655_internet_b200x200.jpg", "auteur": "Caroline Dorka-Fenech", "editeur": "La Martini\u00e8re", "date": "06/01/2023", "prix": "5"},
-{"titre": "A un \u00e9tage pr\u00e8s", "image": "//servimg.eyrolles.com/static/media/4796/9782021524796_internet_b200x200.jpg", "auteur": "J\u00e9rome Baccelli", "editeur": "Seuil", "date": "06/01/2023", "prix": "0"},
-{"titre": "Un coup dans les urnes", "image": "//servimg.eyrolles.com/static/media/6605/9782491506605_internet_b200x200.jpg", "auteur": "Julien Hervieux", "editeur": "Filature(s)", "date": "06/01/2023", "prix": "0"},
-{"titre": "Parlez-vous le parcoursup ?", "image": "//servimg.eyrolles.com/static/media/5977/9782021525977_internet_b200x200.jpg", "auteur": "Johan Faerber", "editeur": "Seuil", "date": "06/01/2023", "prix": "5"},
-{"titre": "Le myst\u00e8re de la femme sans t\u00eate", "image": "//servimg.eyrolles.com/static/media/5763/9782021515763_internet_b200x200.jpg", "auteur": "Myriam Leroy", "editeur": "Seuil", "date": "06/01/2023", "prix": "5"},
-{"titre": "Vivre avec l'invisible", "image": "//servimg.eyrolles.com/static/media/3080/9782361323080_internet_b200x200.jpg", "auteur": "Marie de Hennezel", "editeur": "Versilio", "date": "30/09/2021", "prix": "9"},
-{"titre": "Une chance am\u00e8re", "image": "//servimg.eyrolles.com/static/media/2595/9782380822595_internet_b200x200.jpg", "auteur": "Anne Carri\u00e8re", "editeur": "Anne Carri\u00e8re", "date": "06/01/2023", "prix": "5"},
-{"titre": "... et il ressuscita Madonna", "image": "//servimg.eyrolles.com/static/media/9571/9782383269571_internet_b200x200.jpg", "auteur": "John Le Rectangle", "editeur": "Les Trois Colonnes", "date": "23/09/2022", "prix": "5"},
-{"titre": "Le dernier mot", "image": "//servimg.eyrolles.com/static/media/2728/9782080292728_internet_b200x200.jpg", "auteur": "Virginie Mouzat", "editeur": "Flammarion", "date": "04/01/2023", "prix": "5"},
-{"titre": "Pour rien au monde", "image": "//servimg.eyrolles.com/static/media/5179/9782253935179_internet_b200x200.jpg", "auteur": "Ken Follett", "editeur": "LGF - Le livre de poche", "date": "04/01/2023", "prix": "9"},
-{"titre": "D\u00e9sert", "image": "//servimg.eyrolles.com/static/media/6704/9782070376704_internet_b200x200.jpg", "auteur": "Jean-Marie Gustave Le Cl\u00e9zio", "editeur": "Gallimard", "date": "24/09/1985", "prix": "7"},
-{"titre": "Le proc\u00e8s-verbal", "image": "//servimg.eyrolles.com/static/media/3537/9782070363537_internet_b200x200.jpg", "auteur": "Jean-Marie Gustave Le Cl\u00e9zio", "editeur": "Gallimard", "date": "16/03/1973", "prix": "2"},
-{"titre": "Verre cass\u00e9", "image": "//servimg.eyrolles.com/static/media/4500/9782757864500_internet_b200x200.jpg", "auteur": "Alain Mabanckou", "editeur": "Seuil", "date": "15/06/2017", "prix": "2"},
-{"titre": "L'art du baiser", "image": "//servimg.eyrolles.com/static/media/0870/9782070440870_internet_b200x200.jpg", "auteur": "Philippe Sollers", "editeur": "Gallimard", "date": "05/01/2011", "prix": "0"},
-{"titre": "Par-dessus bord", "image": "//servimg.eyrolles.com/static/media/7448/9782330167448_internet_b200x200.jpg", "auteur": "Michel Vinaver", "editeur": "Actes Sud", "date": "01/06/2022", "prix": "7"},
-{"titre": "Au gr\u00e9 des jours", "image": "//servimg.eyrolles.com/static/media/9566/9782738139566_internet_b200x200.jpg", "auteur": "Fran\u00e7oise H\u00e9ritier", "editeur": "Odile Jacob", "date": "18/10/2017", "prix": "9"},
-{"titre": "Retour de service", "image": "//servimg.eyrolles.com/static/media/9251/9782757889251_internet_b200x200.jpg", "auteur": "John Le Carr\u00e9", "editeur": "Seuil", "date": "17/06/2021", "prix": "9"},
-{"titre": "L'Antarctique", "image": "//servimg.eyrolles.com/static/media/0836/9782848050836_internet_b200x200.jpg", "auteur": "Claire Keegan", "editeur": "Sabine Wespieser \u00e9diteur", "date": "06/05/2010", "prix": "3"},
-{"titre": "Les trois lumi\u00e8res", "image": "//servimg.eyrolles.com/static/media/0959/9782848050959_internet_b200x200.jpg", "auteur": "Claire Keegan", "editeur": "Sabine Wespieser \u00e9diteur", "date": "07/04/2011", "prix": "2"},
-{"titre": "Les dangers de fumer au lit", "image": "//servimg.eyrolles.com/static/media/5185/9782364685185_internet_b200x200.jpg", "auteur": "Mariana Enriquez", "editeur": "Editions du sous-sol", "date": "13/01/2023", "prix": "0"},
-{"titre": "Premier sang", "image": "//servimg.eyrolles.com/static/media/7579/9782253937579_internet_b200x200.jpg", "auteur": "Am\u00e9lie Nothomb", "editeur": "LGF - Le livre de poche", "date": "04/01/2023", "prix": "7"},
-{"titre": "Fog fighters - Alliance pour une revanche - ruines forest", "image": "//servimg.eyrolles.com/static/media/3389/9782898083389_internet_b200x200.jpg", "auteur": "Ada", "editeur": "Ada", "date": "12/05/2020", "prix": "9"},
-{"titre": "Poussez, madame !", "image": "//servimg.eyrolles.com/static/media/4120/9782360754120_internet_b200x200.jpg", "auteur": "Sylvie Coch\u00e9", "editeur": "Editions de l'opportun", "date": "03/03/2016", "prix": "9"},
-{"titre": "Les autodafeurs - Tome 1", "image": "//servimg.eyrolles.com/static/media/6670/9782812606670_internet_b200x200.jpg", "auteur": "Marine Carteron", "editeur": "Editions du Rouergue", "date": "05/05/2014", "prix": "5"},
-{"titre": "L'enfant du temps", "image": "//servimg.eyrolles.com/static/media/2398/9782266202398_internet_b200x200.jpg", "auteur": "Isaac Asimov", "editeur": "Pocket", "date": "11/03/2010", "prix": "2"},
-{"titre": "Tableau noir", "image": "//servimg.eyrolles.com/static/media/9917/9782207259917_internet_b200x200.jpg", "auteur": "Iannis Roder", "editeur": "Deno\u00ebl", "date": "01/09/2008", "prix": "9"},
-{"titre": "Ecrire la vie", "image": "//servimg.eyrolles.com/static/media/2188/9782070132188_internet_b200x200.jpg", "auteur": "Annie Ernaux", "editeur": "Gallimard", "date": "20/10/2011", "prix": "0"},
-{"titre": "L'incroyable histoire du Canard encha\u00een\u00e9", "image": "//servimg.eyrolles.com/static/media/9791/9782352049791_internet_b200x200.jpg", "auteur": "Didier Convard", "editeur": "Les Ar\u00e8nes", "date": "14/11/2018", "prix": "9"},
-{"titre": "R\u00e9inventer l'amour", "image": "//servimg.eyrolles.com/static/media/1743/9782355221743_internet_b200x200.jpg", "auteur": "Mona Chollet", "editeur": "Zones", "date": "16/09/2021", "prix": "0"},
-{"titre": "Le mage du Kremlin", "image": "//servimg.eyrolles.com/static/media/8168/9782072958168_internet_b200x200.jpg", "auteur": "Giuliano Da Empoli", "editeur": "Gallimard", "date": "14/04/2022", "prix": "0"},
-{"titre": "Le pouvoir de l'humour", "image": "//servimg.eyrolles.com/static/media/8085/9782416008085_internet_b200x200.jpg", "auteur": "Vanessa Marci\u00e9", "editeur": "Eyrolles", "date": "03/11/2022", "prix": "0"},
-{"titre": "Covid 19, ce que r\u00e9v\u00e8lent les chiffres officiels", "image": "//servimg.eyrolles.com/static/media/1520/9782810011520_internet_b200x200.jpg", "auteur": "Pierre Chaillot", "editeur": "L'artilleur", "date": "18/01/2023", "prix": "0"},
-{"titre": "Le livre de la jungle", "image": "//servimg.eyrolles.com/static/media/1583/9782081511583_internet_b200x200.jpg", "auteur": "Rudyard Kipling", "editeur": "Rudyard Kipling", "date": "18/11/2020", "prix": "9"},
-{"titre": "Tant que l'oiseau chantera", "image": "//servimg.eyrolles.com/static/media/9475/9782352169475_internet_b200x200.jpg", "auteur": "Brigitte Apicella", "editeur": "Pers\u00e9e", "date": "01/12/2011", "prix": "9"},
-{"titre": "Un des plus grands Papes de l'Histoire : Jean XXII", "image": "//servimg.eyrolles.com/static/media/0595/9782307230595_internet_b200x200.jpg", "auteur": "Eug\u00e8ne Sol", "editeur": "Eug\u00e8ne Sol", "date": "01/01/1948", "prix": "9"},
-{"titre": "L'\u00e9chapp\u00e9e vers la libert\u00e9", "image": "//servimg.eyrolles.com/static/media/6313/9782953646313_internet_b200x200.jpg", "auteur": "Ghislaine Aurore Holmes", "editeur": "Bookelis", "date": "26/07/2021", "prix": "4"},
-{"titre": "Un instituteur des basses-alpes", "image": "//servimg.eyrolles.com/static/media/4954/9782307514954_internet_b200x200.jpg", "auteur": "Germain Lagier", "editeur": "Germain Lagier", "date": "01/01/1993", "prix": "4"},
-{"titre": "Abolition", "image": "//servimg.eyrolles.com/static/media/8315/9782221268315_internet_b200x200.jpg", "auteur": "Aymeric Caron", "editeur": "Robert Laffont", "date": "17/11/2022", "prix": "0"},
-{"titre": "Femmes soldats", "image": "//servimg.eyrolles.com/static/media/0268/9782373010268_internet_b200x200.jpg", "auteur": "Helen Thorpe", "editeur": "JPO", "date": "18/02/2016", "prix": "3"},
-{"titre": "Oscar Hendrych", "image": "//servimg.eyrolles.com/static/media/0817/9782373010817_internet_b200x200.jpg", "auteur": "Pierre Peyrichout", "editeur": "JPO", "date": "07/06/2018", "prix": "0"},
-{"titre": "Tout passe", "image": "//servimg.eyrolles.com/static/media/1677/9782267021677_internet_b200x200.jpg", "auteur": "Bernard Comment", "editeur": "Bourgois", "date": "07/04/2011", "prix": "9"},
-{"titre": "Borgenstein", "image": "//servimg.eyrolles.com/static/media/5965/9782267025965_internet_b200x200.jpg", "auteur": "Sergio Bizzio", "editeur": "Bourgois", "date": "13/02/2014", "prix": "9"},
-{"titre": "\u00c9loge des \u00e9crivains maudits", "image": "//servimg.eyrolles.com/static/media/6409/9782848766409_internet_b200x200.jpg", "auteur": "Patrick Poivre d'Arvor", "editeur": "Philippe Rey", "date": "05/10/2017", "prix": "0"},
-{"titre": "Le g\u00e9ant enfoui", "image": "//servimg.eyrolles.com/static/media/5101/9782070465101_internet_b200x200.jpg", "auteur": "Kazuo Ishiguro", "editeur": "Gallimard", "date": "08/04/2016", "prix": "2"},
-{"titre": "Faire surface", "image": "//servimg.eyrolles.com/static/media/5890/9782221215890_internet_b200x200.jpg", "auteur": "Margaret Atwood", "editeur": "Robert Laffont", "date": "21/09/2017", "prix": "5"},
-{"titre": "\u00c0 quelle heure braquer la banque", "image": "//servimg.eyrolles.com/static/media/1610/9782807301610_internet_b200x200.jpg", "auteur": "Steven Leviit", "editeur": "De Boeck", "date": "30/09/2016", "prix": "0"},
-{"titre": "Les Fran\u00e7ais vus par un Belge", "image": "//servimg.eyrolles.com/static/media/9784/9782352049784_internet_b200x200.jpg", "auteur": "Pierre Kroll", "editeur": "Les Ar\u00e8nes", "date": "07/11/2018", "prix": "9"},
-{"titre": "La lamentation du pr\u00e9puce", "image": "//servimg.eyrolles.com/static/media/8356/9782264048356_internet_b200x200.jpg", "auteur": "Shalom Auslander", "editeur": "10/18", "date": "20/08/2009", "prix": "9"},
-{"titre": "L'odeur de Yasmine", "image": "//servimg.eyrolles.com/static/media/6111/9789953986111_internet_b200x200.jpg", "auteur": "Mich\u00e8le M. Gharios", "editeur": "Noir blanc et caetera", "date": "01/11/2019", "prix": "0"},
-{"titre": "Du feu de l'enfer", "image": "//servimg.eyrolles.com/static/media/5699/9782258115699_internet_b200x200.jpg", "auteur": "C\u00e9dric Sire", "editeur": "Presses de la cit\u00e9", "date": "09/03/2017", "prix": "5"},
-{"titre": "Les hommes qui n'aimaient pas les femmes", "image": "//servimg.eyrolles.com/static/media/1579/9782742761579_internet_b200x200.jpg", "auteur": "Stieg Larsson", "editeur": "Stieg Larsson", "date": "09/06/2006", "prix": "9"},
-{"titre": "Terrorisme islamiste, recrutement et radicalisation", "image": "//servimg.eyrolles.com/static/media/0367/9782373010367_internet_b200x200.jpg", "auteur": "Jean-Christophe Damaisin d'Ar\u00e8s", "editeur": "JPO", "date": "26/05/2016", "prix": "9"},
-{"titre": "Z5", "image": "//servimg.eyrolles.com/static/media/8501/9782847618501_internet_b200x200.jpg", "auteur": "Jean-Michel Espitallier", "editeur": "Al Dante", "date": "15/02/2012", "prix": "0"},
-{"titre": "Froid mortel", "image": "//servimg.eyrolles.com/static/media/5267/9782226245267_internet_b200x200.jpg", "auteur": "Johan Theorin", "editeur": "Albin Michel", "date": "30/01/2013", "prix": "5"},
-{"titre": "La fabrique des petits bonheurs", "image": "//servimg.eyrolles.com/static/media/5460/9791026235460_internet_b200x200.jpg", "auteur": "Dani\u00e8le Fossette", "editeur": "Librinova", "date": "13/12/2019", "prix": "9"},
-{"titre": "Qu'est-ce qui nous rend humains ?", "image": "//servimg.eyrolles.com/static/media/2258/9782708242258_internet_b200x200.jpg", "auteur": "Jean-Louis Lamboray", "editeur": "Les Editions de l'Atelier", "date": "19/04/2013", "prix": "9"},
-{"titre": "L'abyssin", "image": "//servimg.eyrolles.com/static/media/8035/9782070458035_internet_b200x200.jpg", "auteur": "Jean-Christophe Rufin", "editeur": "Gallimard", "date": "27/02/2014", "prix": "5"},
-{"titre": "The House of Mirth", "image": "//servimg.eyrolles.com/static/media/9023/9780141199023_internet_b200x200.jpg", "auteur": "Penguin", "editeur": "Penguin", "date": "03/07/2013", "prix": "5"},
-{"titre": "Le coeur mort de nos seigneurs", "image": "//servimg.eyrolles.com/static/media/9490/9782754719490_internet_b200x200.jpg", "auteur": "Sarah Sagot", "editeur": "Editions du Panth\u00e9on", "date": "18/04/2013", "prix": "4"},
-{"titre": "Pourquoi les Juifs craignent ?", "image": "//servimg.eyrolles.com/static/media/4099/9782754714099_internet_b200x200.jpg", "auteur": "Georges Smadja", "editeur": "Editions du Panth\u00e9on", "date": "29/10/2012", "prix": "9"},
-{"titre": "Contre l'exploitation animale", "image": "//servimg.eyrolles.com/static/media/9208/9782710789208_internet_b200x200.jpg", "auteur": "Andre-Joseph Bouglione", "editeur": "Tchou", "date": "05/04/2018", "prix": "0"},
-{"titre": "H\u00e9 bien ! La guerre", "image": "//servimg.eyrolles.com/static/media/2895/9782207252895_internet_b200x200.jpg", "auteur": "Jack-Alain L\u00e9ger", "editeur": "Deno\u00ebl", "date": "11/01/2006", "prix": "9"},
-{"titre": "Le cycle de Dune - Tome 4 - L'empereur-dieu de Dune", "image": "//servimg.eyrolles.com/static/media/5839/9782266235839_internet_b200x200.jpg", "auteur": "Frank Herbert", "editeur": "Pocket", "date": "22/11/2012", "prix": "5"},
-{"titre": "Le dernier mot", "image": "//servimg.eyrolles.com/static/media/5835/9782267025835_internet_b200x200.jpg", "auteur": "Hanif Kureishi", "editeur": "Bourgois", "date": "02/01/2014", "prix": "0"},
-{"titre": "Le cycle de Dune - Tome 3 - Les enfants de dune", "image": "//servimg.eyrolles.com/static/media/5822/9782266235822_internet_b200x200.jpg", "auteur": "Frank Herbert", "editeur": "Pocket", "date": "22/11/2012", "prix": "2"},
-{"titre": "D\u00e9sorientale", "image": "//servimg.eyrolles.com/static/media/9954/9782867469954_internet_b200x200.jpg", "auteur": "Negar Djavadi", "editeur": "Liana Levi", "date": "05/04/2018", "prix": "0"},
-{"titre": "Sentinelles", "image": "//servimg.eyrolles.com/static/media/4418/9782267024418_internet_b200x200.jpg", "auteur": "C\u00e9cile Wajsbrot", "editeur": "Bourgois", "date": "07/02/2013", "prix": "9"},
-{"titre": "La nuit des b\u00e9guines", "image": "//servimg.eyrolles.com/static/media/0602/9791034900602_internet_b200x200.jpg", "auteur": "Aline Kiner", "editeur": "Liana Levi", "date": "20/09/2018", "prix": "0"},
-{"titre": "Ce que cache ton nom", "image": "//servimg.eyrolles.com/static/media/6470/9782501076470_internet_b200x200.jpg", "auteur": "Clara Sanchez", "editeur": "Marabout", "date": "26/09/2012", "prix": "9"},
-{"titre": "Vingt-quatre heures de la vie d'une femme", "image": "//servimg.eyrolles.com/static/media/2899/9782266242899_internet_b200x200.jpg", "auteur": "Stefan Zweig", "editeur": "Pocket", "date": "03/04/2014", "prix": "4"},
-{"titre": "Perla", "image": "//servimg.eyrolles.com/static/media/0272/9782234060272_internet_b200x200.jpg", "auteur": "Fr\u00e9d\u00e9ric Brun", "editeur": "Stock", "date": "21/02/2007", "prix": "9"},
-{"titre": "Tout cela, je te le donnerai", "image": "//servimg.eyrolles.com/static/media/7785/9782265117785_internet_b200x200.jpg", "auteur": "Dolores Redondo", "editeur": "Fleuve", "date": "12/04/2018", "prix": "9"},
-{"titre": "Courir sur la faille", "image": "//servimg.eyrolles.com/static/media/8997/9782264058997_internet_b200x200.jpg", "auteur": "Naomi Benaron", "editeur": "10/18", "date": "14/08/2013", "prix": "9"},
-{"titre": "1Q84 - Livre 3", "image": "//servimg.eyrolles.com/static/media/9856/9782714449856_internet_b200x200.jpg", "auteur": "Haruki Murakami", "editeur": "Belfond", "date": "01/03/2012", "prix": "5"},
-{"titre": "1Q84 - Livre 1", "image": "//servimg.eyrolles.com/static/media/7074/9782714447074_internet_b200x200.jpg", "auteur": "Haruki Murakami", "editeur": "Belfond", "date": "25/08/2011", "prix": "5"},
-{"titre": "Le rabbin congel\u00e9", "image": "//servimg.eyrolles.com/static/media/3046/9782746733046_internet_b200x200.jpg", "auteur": "Steve Stern", "editeur": "Autrement", "date": "18/08/2012", "prix": "9"},
-{"titre": "The real life of Sebastian Knight", "image": "//servimg.eyrolles.com/static/media/5996/9780141185996_internet_b200x200.jpg", "auteur": "Penguin", "editeur": "Penguin", "date": "25/01/2007", "prix": "5"},
-{"titre": "En attendant bojangles", "image": "//servimg.eyrolles.com/static/media/4812/9782072844812_internet_b200x200.jpg", "auteur": "Olivier Bourdeaut", "editeur": "Gallimard", "date": "04/04/2019", "prix": "5"}]
+  {
+    "titre": "Kilom\u00e8tre z\u00e9ro",
+    "image": "//servimg.eyrolles.com/static/media/0512/9782290210512_internet_b400x400.jpg",
+    "auteur": "Maud Ankaoua",
+    "editeur": "Maud Ankaoua",
+    "date": "02/10/2019",
+    "prix": "9"
+  },
+  {
+    "titre": "Toutes les familles heureuses",
+    "image": "//servimg.eyrolles.com/static/media/0815/9782709660815_internet_b400x400.jpg",
+    "auteur": "Herv\u00e9 Letellier",
+    "editeur": "JC Latt\u00e8s",
+    "date": "23/08/2017",
+    "prix": "0"
+  },
+  {
+    "titre": "Argent sale : la traque",
+    "image": "//servimg.eyrolles.com/static/media/6886/9782213716886_internet_b400x400.jpg",
+    "auteur": "Quentin Mugg",
+    "editeur": "Fayard",
+    "date": "20/01/2021",
+    "prix": "0"
+  },
+  {
+    "titre": "Le train des enfants",
+    "image": "//servimg.eyrolles.com/static/media/5100/9782253935100_internet_b400x400.jpg",
+    "auteur": "Viola Ardone",
+    "editeur": "LGF - Le livre de poche",
+    "date": "01/06/2022",
+    "prix": "7"
+  },
+  {
+    "titre": "Et quand viendra la fin du voyage...",
+    "image": "//servimg.eyrolles.com/static/media/3480/9782213633480_internet_b400x400.jpg",
+    "auteur": "R\u00e9gine Deforges",
+    "editeur": "Fayard",
+    "date": "02/05/2007",
+    "prix": "0"
+  },
+  {
+    "titre": "Noir",
+    "image": "//servimg.eyrolles.com/static/media/4786/9782266324786_internet_b400x400.jpg",
+    "auteur": " Koz",
+    "editeur": "Pocket",
+    "date": "12/05/2022",
+    "prix": "3"
+  },
+  {
+    "titre": "Chef d'\u00e9tablissement SNCF, 1953-1993",
+    "image": "//servimg.eyrolles.com/static/media/0254/9782747540254_internet_b400x400.jpg",
+    "auteur": "Daniel Brigot",
+    "editeur": "L'Harmattan",
+    "date": "01/11/2003",
+    "prix": "0"
+  },
+  {
+    "titre": "J'aime le sport de petit niveau",
+    "image": "//servimg.eyrolles.com/static/media/5127/9782749165127_internet_b400x400.jpg",
+    "auteur": "Boris Cyrulnik",
+    "editeur": "Le Cherche Midi",
+    "date": "05/03/2020",
+    "prix": "0"
+  },
+  {
+    "titre": "L'art d'\u00e9crire des ha\u00efkus",
+    "image": "//servimg.eyrolles.com/static/media/7774/9782416007774_internet_b400x400.jpg",
+    "auteur": "Dani\u00e8le Duteil",
+    "editeur": "Eyrolles",
+    "date": "16/02/2023",
+    "prix": "0"
+  },
+  {
+    "titre": "Vivre \u00e0 l'endroit",
+    "image": "//servimg.eyrolles.com/static/media/2438/9782212572438_internet_b400x400.jpg",
+    "auteur": "Juliette Allais",
+    "editeur": "Eyrolles",
+    "date": "07/04/2022",
+    "prix": "0"
+  },
+  {
+    "titre": "La pointe du diamant",
+    "image": "//servimg.eyrolles.com/static/media/3925/9782915243925_internet_b400x400.jpg",
+    "auteur": "Yannick Piart",
+    "editeur": "Nimrod",
+    "date": "14/10/2017",
+    "prix": "0"
+  },
+  {
+    "titre": "Il \u00e9tait une fois la guerre",
+    "image": "//servimg.eyrolles.com/static/media/1103/9782372581103_internet_b400x400.jpg",
+    "auteur": "Estelle Tharreau",
+    "editeur": "Taurnada",
+    "date": "03/11/2022",
+    "prix": "9"
+  },
+  {
+    "titre": "Les export\u00e9s",
+    "image": "//servimg.eyrolles.com/static/media/3207/9782080283207_internet_b400x400.jpg",
+    "auteur": "Sonia Devillers",
+    "editeur": "Flammarion",
+    "date": "31/08/2022",
+    "prix": "0"
+  },
+  {
+    "titre": "Plus jamais sans moi",
+    "image": "//servimg.eyrolles.com/static/media/8382/9782416008382_internet_b400x400.jpg",
+    "auteur": "Maud Ankaoua",
+    "editeur": "Eyrolles",
+    "date": "05/01/2023",
+    "prix": "9"
+  },
+  {
+    "titre": "Passag\u00e8re du silence",
+    "image": "//servimg.eyrolles.com/static/media/4666/9782253114666_internet_b400x400.jpg",
+    "auteur": "Fabienne Verdier",
+    "editeur": "LGF - Le livre de poche",
+    "date": "05/10/2005",
+    "prix": "9"
+  },
+  {
+    "titre": "2001 L'odyss\u00e9e de l'espace",
+    "image": "//servimg.eyrolles.com/static/media/6975/9782730216975_internet_b400x400.jpg",
+    "auteur": "Christopher Robinson",
+    "editeur": "Les \u00e9ditions de l'Ecole polytechnique",
+    "date": "03/03/2022",
+    "prix": "0"
+  },
+  {
+    "titre": "Le pari de l'impossible",
+    "image": "//servimg.eyrolles.com/static/media/3994/9782915243994_internet_b400x400.jpg",
+    "auteur": "Romain Bethoux",
+    "editeur": "Nimrod",
+    "date": "26/03/2018",
+    "prix": "0"
+  },
+  {
+    "titre": "Un jour, j'ai perdu les cl\u00e9s de chez moi...",
+    "image": "//servimg.eyrolles.com/static/media/1178/9782416001178_internet_b400x400.jpg",
+    "auteur": " Mademoiselle Smoothie",
+    "editeur": " Mademoiselle Smoothie",
+    "date": "20/05/2021",
+    "prix": "9"
+  },
+  {
+    "titre": "Le Chat, c'est moi...",
+    "image": "//servimg.eyrolles.com/static/media/2907/9782203162907_internet_b400x400.jpg",
+    "auteur": "Philippe Geluck",
+    "editeur": "Casterman",
+    "date": "06/12/2017",
+    "prix": "5"
+  },
+  {
+    "titre": "Monsieur Edgar et les impatients",
+    "image": "//servimg.eyrolles.com/static/media/3264/9782416003264_internet_b400x400.jpg",
+    "auteur": "Coralie Caujolle",
+    "editeur": "Eyrolles",
+    "date": "06/01/2022",
+    "prix": "0"
+  },
+  {
+    "titre": "Alex",
+    "image": "//servimg.eyrolles.com/static/media/6443/9782253166443_internet_b400x400.jpg",
+    "auteur": "Pierre Lemaitre",
+    "editeur": "LGF - Le livre de poche",
+    "date": "02/05/2012",
+    "prix": "9"
+  },
+  {
+    "titre": "Kilom\u00e8tre z\u00e9ro",
+    "image": "//servimg.eyrolles.com/static/media/7434/9782212567434_internet_b400x400.jpg",
+    "auteur": "Maud Ankaoua",
+    "editeur": "Maud Ankaoua",
+    "date": "21/09/2017",
+    "prix": "0"
+  },
+  {
+    "titre": "L'histoire mondiale des riches",
+    "image": "//servimg.eyrolles.com/static/media/1649/9782259311649_internet_b400x400.jpg",
+    "auteur": "Fabrice d'Almeida",
+    "editeur": "Plon",
+    "date": "13/10/2022",
+    "prix": "9"
+  },
+  {
+    "titre": "Les lions en hiver",
+    "image": "//servimg.eyrolles.com/static/media/4988/9782226474988_internet_b400x400.jpg",
+    "auteur": "Stefania Auci",
+    "editeur": "Albin Michel",
+    "date": "02/11/2022",
+    "prix": "9"
+  },
+  {
+    "titre": "Trois jours et une vie",
+    "image": "//servimg.eyrolles.com/static/media/0825/9782253070825_internet_b400x400.jpg",
+    "auteur": "Pierre Lemaitre",
+    "editeur": "LGF - Le livre de poche",
+    "date": "22/03/2017",
+    "prix": "7"
+  },
+  {
+    "titre": "Le silence et la col\u00e8re",
+    "image": "//servimg.eyrolles.com/static/media/3618/9782702183618_internet_b400x400.jpg",
+    "auteur": "Pierre Lemaitre",
+    "editeur": "Calmann-L\u00e9vy",
+    "date": "10/01/2023",
+    "prix": "9"
+  },
+  {
+    "titre": "Toute la lumi\u00e8re que nous ne pouvons voir",
+    "image": "//servimg.eyrolles.com/static/media/5281/9782253045281_internet_b400x400.jpg",
+    "auteur": "Anthony Doerr",
+    "editeur": "LGF - Le livre de poche",
+    "date": "28/09/2016",
+    "prix": "4"
+  },
+  {
+    "titre": "Il est grand temps de rallumer les \u00e9toiles",
+    "image": "//servimg.eyrolles.com/static/media/0492/9782253100492_internet_b400x400.jpg",
+    "auteur": "Virginie Grimaldi",
+    "editeur": "LGF - Le livre de poche",
+    "date": "02/05/2019",
+    "prix": "9"
+  },
+  {
+    "titre": "A travers les champs bleus",
+    "image": "//servimg.eyrolles.com/static/media/1185/9782848051185_internet_b400x400.jpg",
+    "auteur": "Claire Keegan",
+    "editeur": "Sabine Wespieser \u00e9diteur",
+    "date": "04/10/2012",
+    "prix": "0"
+  },
+  {
+    "titre": "Les possibles",
+    "image": "//servimg.eyrolles.com/static/media/1966/9782253241966_internet_b400x400.jpg",
+    "auteur": "Virginie Grimaldi",
+    "editeur": "LGF - Le livre de poche",
+    "date": "04/05/2022",
+    "prix": "2"
+  },
+  {
+    "titre": "Le travail, enjeu des retraites",
+    "image": "//servimg.eyrolles.com/static/media/3025/9782843033025_internet_b400x400.jpg",
+    "auteur": "Bernard Friot",
+    "editeur": "La Dispute",
+    "date": "14/03/2019",
+    "prix": "0"
+  },
+  {
+    "titre": "D\u00e9sert",
+    "image": "//servimg.eyrolles.com/static/media/6704/9782070376704_internet_b400x400.jpg",
+    "auteur": "Jean-Marie Gustave Le Cl\u00e9zio",
+    "editeur": "Gallimard",
+    "date": "24/09/1985",
+    "prix": "7"
+  },
+  {
+    "titre": "Le proc\u00e8s-verbal",
+    "image": "//servimg.eyrolles.com/static/media/3537/9782070363537_internet_b400x400.jpg",
+    "auteur": "Jean-Marie Gustave Le Cl\u00e9zio",
+    "editeur": "Gallimard",
+    "date": "16/03/1973",
+    "prix": "2"
+  },
+  {
+    "titre": "Verre cass\u00e9",
+    "image": "//servimg.eyrolles.com/static/media/4500/9782757864500_internet_b400x400.jpg",
+    "auteur": "Alain Mabanckou",
+    "editeur": "Seuil",
+    "date": "15/06/2017",
+    "prix": "2"
+  },
+  {
+    "titre": "L'art du baiser",
+    "image": "//servimg.eyrolles.com/static/media/0870/9782070440870_internet_b400x400.jpg",
+    "auteur": "Philippe Sollers",
+    "editeur": "Gallimard",
+    "date": "05/01/2011",
+    "prix": "0"
+  },
+  {
+    "titre": "Par-dessus bord",
+    "image": "//servimg.eyrolles.com/static/media/7448/9782330167448_internet_b400x400.jpg",
+    "auteur": "Michel Vinaver",
+    "editeur": "Actes Sud",
+    "date": "01/06/2022",
+    "prix": "7"
+  },
+  {
+    "titre": "Au gr\u00e9 des jours",
+    "image": "//servimg.eyrolles.com/static/media/9566/9782738139566_internet_b400x400.jpg",
+    "auteur": "Fran\u00e7oise H\u00e9ritier",
+    "editeur": "Odile Jacob",
+    "date": "18/10/2017",
+    "prix": "9"
+  },
+  {
+    "titre": "Retour de service",
+    "image": "//servimg.eyrolles.com/static/media/9251/9782757889251_internet_b400x400.jpg",
+    "auteur": "John Le Carr\u00e9",
+    "editeur": "Seuil",
+    "date": "17/06/2021",
+    "prix": "9"
+  },
+  {
+    "titre": "L'Antarctique",
+    "image": "//servimg.eyrolles.com/static/media/0836/9782848050836_internet_b400x400.jpg",
+    "auteur": "Claire Keegan",
+    "editeur": "Sabine Wespieser \u00e9diteur",
+    "date": "06/05/2010",
+    "prix": "3"
+  },
+  {
+    "titre": "Les trois lumi\u00e8res",
+    "image": "//servimg.eyrolles.com/static/media/0959/9782848050959_internet_b400x400.jpg",
+    "auteur": "Claire Keegan",
+    "editeur": "Sabine Wespieser \u00e9diteur",
+    "date": "07/04/2011",
+    "prix": "2"
+  },
+  {
+    "titre": "Gataca",
+    "image": "//servimg.eyrolles.com/static/media/7605/9782266227605_internet_b400x400.jpg",
+    "auteur": "Franck Thilliez",
+    "editeur": "Pocket",
+    "date": "12/04/2012",
+    "prix": "5"
+  },
+  {
+    "titre": "Foutriquet",
+    "image": "//servimg.eyrolles.com/static/media/2106/9782226472106_internet_b400x400.jpg",
+    "auteur": "Michel Onfray",
+    "editeur": "Albin Michel",
+    "date": "02/03/2022",
+    "prix": "9"
+  },
+  {
+    "titre": "La vengeance du pangolin",
+    "image": "//servimg.eyrolles.com/static/media/7408/9782290357408_internet_b400x400.jpg",
+    "auteur": "Michel Onfray",
+    "editeur": "J'ai lu",
+    "date": "16/03/2022",
+    "prix": "2"
+  },
+  {
+    "titre": "Dora Bruder",
+    "image": "//servimg.eyrolles.com/static/media/8481/9782070408481_internet_b400x400.jpg",
+    "auteur": "Patrick Modiano",
+    "editeur": "Gallimard",
+    "date": "02/04/1999",
+    "prix": "5"
+  },
+  {
+    "titre": "Les impatientes",
+    "image": "//servimg.eyrolles.com/static/media/2949/9782290252949_internet_b400x400.jpg",
+    "auteur": "Dja\u00efli Amadou Amal",
+    "editeur": "J'ai lu",
+    "date": "05/01/2022",
+    "prix": "9"
+  },
+  {
+    "titre": "Quand la brume se d\u00e9chire",
+    "image": "//servimg.eyrolles.com/static/media/9697/9791090119697_internet_b400x400.jpg",
+    "auteur": "Eleonore Demey",
+    "editeur": "Editions du Palais",
+    "date": "02/10/2020",
+    "prix": "0"
+  },
+  {
+    "titre": "Voyage aux fronti\u00e8res de la vie",
+    "image": "//servimg.eyrolles.com/static/media/6426/9782757896426_internet_b400x400.jpg",
+    "auteur": "Nathalie A. Cabrol",
+    "editeur": "Seuil",
+    "date": "06/01/2023",
+    "prix": "9"
+  },
+  {
+    "titre": "Le cr\u00e9puscule et l'aube",
+    "image": "//servimg.eyrolles.com/static/media/1556/9782253071556_internet_b400x400.jpg",
+    "auteur": "Ken Follett",
+    "editeur": "LGF - Le livre de poche",
+    "date": "05/01/2022",
+    "prix": "4"
+  },
+  {
+    "titre": "Le scandale Modigliani",
+    "image": "//servimg.eyrolles.com/static/media/9735/9782253159735_internet_b400x400.jpg",
+    "auteur": "Ken Follett",
+    "editeur": "LGF - Le livre de poche",
+    "date": "18/05/2011",
+    "prix": "2"
+  },
+  {
+    "titre": "Comment sont morts les politiques ?",
+    "image": "//servimg.eyrolles.com/static/media/2519/9782204142519_internet_b400x400.jpg",
+    "auteur": "Arnaud Benedetti",
+    "editeur": "Cerf",
+    "date": "04/11/2021",
+    "prix": "0"
+  },
+  {
+    "titre": "L'ordre n\u00e9cessaire",
+    "image": "//servimg.eyrolles.com/static/media/4133/9782221264133_internet_b400x400.jpg",
+    "auteur": "Didier Lallement",
+    "editeur": "Robert Laffont",
+    "date": "20/10/2022",
+    "prix": "0"
+  },
+  {
+    "titre": "Police : la loi de l'omerta",
+    "image": "//servimg.eyrolles.com/static/media/4815/9782749174815_internet_b400x400.jpg",
+    "auteur": "Agn\u00e8s Naudin",
+    "editeur": "Le Cherche Midi",
+    "date": "01/12/2022",
+    "prix": "5"
+  },
+  {
+    "titre": "L'\u00e9ternit\u00e9 n'est pas de trop",
+    "image": "//servimg.eyrolles.com/static/media/4587/9782253154587_internet_b400x400.jpg",
+    "auteur": "Fran\u00e7ois Cheng",
+    "editeur": "LGF - Le livre de poche",
+    "date": "29/10/2003",
+    "prix": "7"
+  },
+  {
+    "titre": "Les trois femmes du Consul",
+    "image": "//servimg.eyrolles.com/static/media/3248/9782072883248_internet_b400x400.jpg",
+    "auteur": "Jean-Christophe Rufin",
+    "editeur": "Gallimard",
+    "date": "08/04/2021",
+    "prix": "7"
+  },
+  {
+    "titre": "Le suspendu de Conakry",
+    "image": "//servimg.eyrolles.com/static/media/5313/9782072785313_internet_b400x400.jpg",
+    "auteur": "Jean-Christophe Rufin",
+    "editeur": "Gallimard",
+    "date": "15/08/2019",
+    "prix": "7"
+  },
+  {
+    "titre": "Le murmure du vent",
+    "image": "//servimg.eyrolles.com/static/media/1242/9782253071242_internet_b400x400.jpg",
+    "auteur": "Karen Viggers",
+    "editeur": "LGF - Le livre de poche",
+    "date": "28/03/2018",
+    "prix": "4"
+  },
+  {
+    "titre": "L'entreprise contributive",
+    "image": "//servimg.eyrolles.com/static/media/3626/9782100843626_internet_b400x400.jpg",
+    "auteur": "Fabrice Bonnifet",
+    "editeur": "Dunod",
+    "date": "04/05/2022",
+    "prix": "9"
+  },
+  {
+    "titre": "La douleur",
+    "image": "//servimg.eyrolles.com/static/media/1099/9782070441099_internet_b400x400.jpg",
+    "auteur": "Marguerite Duras",
+    "editeur": "Gallimard",
+    "date": "13/05/2011",
+    "prix": "1"
+  },
+  {
+    "titre": "Rivi\u00e8re d'automne",
+    "image": "//servimg.eyrolles.com/static/media/6221/9782809716221_internet_b400x400.jpg",
+    "auteur": "Yu Dafu",
+    "editeur": "Philippe Picquier",
+    "date": "06/01/2023",
+    "prix": "5"
+  },
+  {
+    "titre": "Les lames",
+    "image": "//servimg.eyrolles.com/static/media/3911/9782266223911_internet_b400x400.jpg",
+    "auteur": "Mo Hayder",
+    "editeur": "Pocket",
+    "date": "14/06/2012",
+    "prix": "2"
+  },
+  {
+    "titre": "Oiseau de nuit",
+    "image": "//servimg.eyrolles.com/static/media/0209/9782266300209_internet_b400x400.jpg",
+    "auteur": "Robert Bryndza",
+    "editeur": "Pocket",
+    "date": "09/01/2020",
+    "prix": "6"
+  },
+  {
+    "titre": "Le bonhomme de neige",
+    "image": "//servimg.eyrolles.com/static/media/7987/9782070427987_internet_b400x400.jpg",
+    "auteur": "Jo Nesbo",
+    "editeur": "Jo Nesbo",
+    "date": "11/02/2010",
+    "prix": "7"
+  },
+  {
+    "titre": "Chasseurs de t\u00eates",
+    "image": "//servimg.eyrolles.com/static/media/1143/9782070441143_internet_b400x400.jpg",
+    "auteur": "Jo Nesbo",
+    "editeur": "Gallimard",
+    "date": "03/02/2011",
+    "prix": "7"
+  },
+  {
+    "titre": "Sans un mot",
+    "image": "//servimg.eyrolles.com/static/media/2987/9782714442987_internet_b400x400.jpg",
+    "auteur": "Harlan Coben",
+    "editeur": "Belfond",
+    "date": "05/03/2009",
+    "prix": "9"
+  },
+  {
+    "titre": "10 ans pour \u00e7a !",
+    "image": "//servimg.eyrolles.com/static/media/1412/9782350131412_internet_b400x400.jpg",
+    "auteur": " Wiaz",
+    "editeur": "Jean-Claude Gawsewitch",
+    "date": "12/11/2009",
+    "prix": "2"
+  },
+  {
+    "titre": "Brume",
+    "image": "//servimg.eyrolles.com/static/media/6003/9782226186003_internet_b400x400.jpg",
+    "auteur": "Stephen King",
+    "editeur": "Albin Michel",
+    "date": "27/02/2008",
+    "prix": "9"
+  },
+  {
+    "titre": "Le choeur des femmes",
+    "image": "//servimg.eyrolles.com/static/media/0399/9782070440399_internet_b400x400.jpg",
+    "auteur": "Martin Winckler",
+    "editeur": "Gallimard",
+    "date": "10/02/2011",
+    "prix": "9"
+  },
+  {
+    "titre": "Sans amour : r\u00e9cit",
+    "image": "//servimg.eyrolles.com/static/media/0560/9782207110560_internet_b400x400.jpg",
+    "auteur": "Pierre Pachet",
+    "editeur": "Deno\u00ebl",
+    "date": "24/02/2011",
+    "prix": "4"
+  },
+  {
+    "titre": "Endgame",
+    "image": "//servimg.eyrolles.com/static/media/2159/9782070662159_internet_b400x400.jpg",
+    "auteur": "James Frey",
+    "editeur": "Gallimard",
+    "date": "09/10/2014",
+    "prix": "9"
+  },
+  {
+    "titre": "Ne l\u00e2che pas ma main",
+    "image": "//servimg.eyrolles.com/static/media/9944/9782258099944_internet_b400x400.jpg",
+    "auteur": "Michel Bussi",
+    "editeur": "Presses de la cit\u00e9",
+    "date": "07/03/2013",
+    "prix": "9"
+  },
+  {
+    "titre": "L'\u00e9t\u00e9 tous les chats s'ennuient",
+    "image": "//servimg.eyrolles.com/static/media/4601/9782914704601_internet_b400x400.jpg",
+    "auteur": "Philippe Georget",
+    "editeur": "Jigal",
+    "date": "07/10/2009",
+    "prix": "2"
+  },
+  {
+    "titre": "Une offrande \u00e0 la temp\u00eate",
+    "image": "//servimg.eyrolles.com/static/media/8183/9782072708183_internet_b400x400.jpg",
+    "auteur": "Dolores Redondo",
+    "editeur": "Gallimard",
+    "date": "16/03/2017",
+    "prix": "7"
+  },
+  {
+    "titre": "Le gardien invisible",
+    "image": "//servimg.eyrolles.com/static/media/1691/9782070461691_internet_b400x400.jpg",
+    "auteur": "Dolores Redondo",
+    "editeur": "Gallimard",
+    "date": "15/01/2015",
+    "prix": "7"
+  },
+  {
+    "titre": "Un bleu en politique",
+    "image": "//servimg.eyrolles.com/static/media/2236/9782258082236_internet_b400x400.jpg",
+    "auteur": "Bernard Laporte",
+    "editeur": "Presses de la cit\u00e9",
+    "date": "12/11/2009",
+    "prix": "9"
+  },
+  {
+    "titre": "Mon voisin",
+    "image": "//servimg.eyrolles.com/static/media/5000/9782867465000_internet_b400x400.jpg",
+    "auteur": "Milena Agus",
+    "editeur": "Liana Levi",
+    "date": "08/01/2009",
+    "prix": "9"
+  },
+  {
+    "titre": "La fabrique de souvenirs",
+    "image": "//servimg.eyrolles.com/static/media/3662/9782081203662_internet_b400x400.jpg",
+    "auteur": "Philippe Pollet-Villard",
+    "editeur": "Flammarion",
+    "date": "16/01/2008",
+    "prix": "4"
+  },
+  {
+    "titre": "Le g\u00e9nie des coincidences",
+    "image": "//servimg.eyrolles.com/static/media/6008/9782264066008_internet_b400x400.jpg",
+    "auteur": "John Ironmonger",
+    "editeur": "10/18",
+    "date": "04/02/2016",
+    "prix": "9"
+  },
+  {
+    "titre": "Coups pour coups",
+    "image": "//servimg.eyrolles.com/static/media/1544/9782354171544_internet_b400x400.jpg",
+    "auteur": "Nicolas Barotte",
+    "editeur": "Editions du moment",
+    "date": "10/05/2012",
+    "prix": "9"
+  },
+  {
+    "titre": "L'amour du tennis",
+    "image": "//servimg.eyrolles.com/static/media/0959/9782259210959_internet_b400x400.jpg",
+    "auteur": "Patrice Dominguez",
+    "editeur": "Plon",
+    "date": "05/05/2011",
+    "prix": "9"
+  },
+  {
+    "titre": "L'encul\u00e9",
+    "image": "//servimg.eyrolles.com/static/media/7916/9782953487916_internet_b400x400.jpg",
+    "auteur": "Marc-Edouard Nabe",
+    "editeur": "Marc-Edouard Nabe",
+    "date": "29/09/2011",
+    "prix": "0"
+  },
+  {
+    "titre": "Couronne de coeurs",
+    "image": "//servimg.eyrolles.com/static/media/8088/9782706148088_internet_b400x400.jpg",
+    "auteur": "Isabelle Poirot",
+    "editeur": "Presses Universitaires de Grenoble (PUG)",
+    "date": "29/04/2020",
+    "prix": "0"
+  },
+  {
+    "titre": "Sharko / Henebelle, couple de flics",
+    "image": "//servimg.eyrolles.com/static/media/0351/9782823860351_internet_b400x400.jpg",
+    "auteur": "Franck Thilliez",
+    "editeur": null,
+    "date": "13/04/2017",
+    "prix": "0"
+  },
+  {
+    "titre": "L'aplatissement du monde",
+    "image": "//servimg.eyrolles.com/static/media/5931/9782021505931_internet_b400x400.jpg",
+    "auteur": "Olivier Roy",
+    "editeur": "Seuil",
+    "date": "14/10/2022",
+    "prix": "5"
+  },
+  {
+    "titre": "Donne-nous aujourd'hui notre soin covidien !",
+    "image": "//servimg.eyrolles.com/static/media/8125/9782706148125_internet_b400x400.jpg",
+    "auteur": "Nicolas Pinsault",
+    "editeur": "Presses Universitaires de Grenoble (PUG)",
+    "date": "29/04/2020",
+    "prix": "0"
+  },
+  {
+    "titre": "Petite lecture ryhtmique de l'archipel du confinement",
+    "image": "//servimg.eyrolles.com/static/media/8255/9782706148255_internet_b400x400.jpg",
+    "auteur": "Luc Gwiazdzinski",
+    "editeur": "Presses Universitaires de Grenoble (PUG)",
+    "date": "29/04/2020",
+    "prix": "0"
+  },
+  {
+    "titre": "la vie et demie",
+    "image": "//servimg.eyrolles.com/static/media/4477/9782757894477_internet_b400x400.jpg",
+    "auteur": "Sony Labou Tansi",
+    "editeur": "Points",
+    "date": "23/09/2022",
+    "prix": "8"
+  },
+  {
+    "titre": "Ce que le Covid-19 fait au num\u00e9rique",
+    "image": "//servimg.eyrolles.com/static/media/8347/9782706148347_internet_b400x400.jpg",
+    "auteur": "Bertrand Legendre",
+    "editeur": "Presses Universitaires de Grenoble (PUG)",
+    "date": "29/04/2020",
+    "prix": "0"
+  },
+  {
+    "titre": "Chelsea girls",
+    "image": "//servimg.eyrolles.com/static/media/6144/9782364686144_internet_b400x400.jpg",
+    "auteur": "Eileen Myles",
+    "editeur": "Editions du sous-sol",
+    "date": "02/09/2022",
+    "prix": "0"
+  },
+  {
+    "titre": "Au plus beau pays du monde",
+    "image": "//servimg.eyrolles.com/static/media/9164/9782021479164_internet_b400x400.jpg",
+    "auteur": "Tahar Ben Jelloun",
+    "editeur": "Seuil",
+    "date": "07/10/2022",
+    "prix": "0"
+  },
+  {
+    "titre": "Un doute et une certitude",
+    "image": "//servimg.eyrolles.com/static/media/2234/9791022612234_internet_b400x400.jpg",
+    "auteur": "Luis Sepulveda",
+    "editeur": "M\u00e9taili\u00e9",
+    "date": "14/10/2022",
+    "prix": "8"
+  },
+  {
+    "titre": "Plus jamais sans moi",
+    "image": "//servimg.eyrolles.com/static/media/8382/9782416008382_internet_b400x400.jpg",
+    "auteur": "Maud Ankaoua",
+    "editeur": "Eyrolles",
+    "date": "05/01/2023",
+    "prix": "9"
+  },
+  {
+    "titre": "Temps calme, pleine temp\u00eate",
+    "image": "//servimg.eyrolles.com/static/media/9136/9782021519136_internet_b400x400.jpg",
+    "auteur": "Seuil",
+    "editeur": null,
+    "date": "06/01/2023",
+    "prix": "0"
+  },
+  {
+    "titre": "L'appartement",
+    "image": "//servimg.eyrolles.com/static/media/6537/9782843046537_internet_b400x400.jpg",
+    "auteur": "Zoy\u00e2 Pirz\u00e2d",
+    "editeur": null,
+    "date": "20/06/2013",
+    "prix": "9"
+  },
+  {
+    "titre": "Petits arrangements intra-galactiques",
+    "image": "//servimg.eyrolles.com/static/media/2145/9782366292145_internet_b400x400.jpg",
+    "auteur": "Sylvie Lain\u00e9",
+    "editeur": "ActuSF",
+    "date": "21/11/2012",
+    "prix": "9"
+  },
+  {
+    "titre": "Honnis soient-ils !",
+    "image": "//servimg.eyrolles.com/static/media/2046/9782379612046_internet_b400x400.jpg",
+    "auteur": "Patricia Le Sausse",
+    "editeur": "Elixyria",
+    "date": "12/05/2020",
+    "prix": "9"
+  },
+  {
+    "titre": "L'embuscade",
+    "image": "//servimg.eyrolles.com/static/media/3528/9791033913528_internet_b400x400.jpg",
+    "auteur": "Emilie Guillaumin",
+    "editeur": "HarperCollins",
+    "date": "04/01/2023",
+    "prix": "5"
+  },
+  {
+    "titre": "Arcadia",
+    "image": "//servimg.eyrolles.com/static/media/5562/9782823615562_internet_b400x400.jpg",
+    "auteur": "Lauren Groff",
+    "editeur": "Editions de l'Olivier",
+    "date": "06/01/2023",
+    "prix": "9"
+  },
+  {
+    "titre": "Seul entour\u00e9 de chiens qui mordent",
+    "image": "//servimg.eyrolles.com/static/media/4026/9782757894026_internet_b400x400.jpg",
+    "auteur": "David Thomas",
+    "editeur": "Seuil",
+    "date": "06/01/2023",
+    "prix": "9"
+  },
+  {
+    "titre": "La naissance du jour",
+    "image": "//servimg.eyrolles.com/static/media/3529/9782080413529_internet_b400x400.jpg",
+    "auteur": " Colette",
+    "editeur": "Flammarion",
+    "date": "04/01/2023",
+    "prix": "5"
+  },
+  {
+    "titre": "La fin de ch\u00e9ri",
+    "image": "//servimg.eyrolles.com/static/media/3536/9782080413536_internet_b400x400.jpg",
+    "auteur": " Colette",
+    "editeur": "Flammarion",
+    "date": "04/01/2023",
+    "prix": "0"
+  },
+  {
+    "titre": "Matrix",
+    "image": "//servimg.eyrolles.com/static/media/8334/9782823618334_internet_b400x400.jpg",
+    "auteur": "Lauren Groff",
+    "editeur": "Editions de l'Olivier",
+    "date": "06/01/2023",
+    "prix": "5"
+  },
+  {
+    "titre": "Trio des ardents",
+    "image": "//servimg.eyrolles.com/static/media/3508/9782021523508_internet_b400x400.jpg",
+    "auteur": "Patrick Grainville",
+    "editeur": "Seuil",
+    "date": "06/01/2023",
+    "prix": "5"
+  },
+  {
+    "titre": "Alex",
+    "image": "//servimg.eyrolles.com/static/media/6443/9782253166443_internet_b400x400.jpg",
+    "auteur": "Pierre Lemaitre",
+    "editeur": "LGF - Le livre de poche",
+    "date": "02/05/2012",
+    "prix": "9"
+  },
+  {
+    "titre": "Kilom\u00e8tre z\u00e9ro",
+    "image": "//servimg.eyrolles.com/static/media/7434/9782212567434_internet_b400x400.jpg",
+    "auteur": "Maud Ankaoua",
+    "editeur": "Maud Ankaoua",
+    "date": "21/09/2017",
+    "prix": "0"
+  },
+  {
+    "titre": "L'histoire mondiale des riches",
+    "image": "//servimg.eyrolles.com/static/media/1649/9782259311649_internet_b400x400.jpg",
+    "auteur": "Fabrice d'Almeida",
+    "editeur": "Plon",
+    "date": "13/10/2022",
+    "prix": "9"
+  },
+  {
+    "titre": "Les lions en hiver",
+    "image": "//servimg.eyrolles.com/static/media/4988/9782226474988_internet_b400x400.jpg",
+    "auteur": "Stefania Auci",
+    "editeur": "Albin Michel",
+    "date": "02/11/2022",
+    "prix": "9"
+  },
+  {
+    "titre": "Trois jours et une vie",
+    "image": "//servimg.eyrolles.com/static/media/0825/9782253070825_internet_b400x400.jpg",
+    "auteur": "Pierre Lemaitre",
+    "editeur": "LGF - Le livre de poche",
+    "date": "22/03/2017",
+    "prix": "7"
+  },
+  {
+    "titre": "Le silence et la col\u00e8re",
+    "image": "//servimg.eyrolles.com/static/media/3618/9782702183618_internet_b400x400.jpg",
+    "auteur": "Pierre Lemaitre",
+    "editeur": "Calmann-L\u00e9vy",
+    "date": "10/01/2023",
+    "prix": "9"
+  },
+  {
+    "titre": "Toute la lumi\u00e8re que nous ne pouvons voir",
+    "image": "//servimg.eyrolles.com/static/media/5281/9782253045281_internet_b400x400.jpg",
+    "auteur": "Anthony Doerr",
+    "editeur": "LGF - Le livre de poche",
+    "date": "28/09/2016",
+    "prix": "4"
+  },
+  {
+    "titre": "Il est grand temps de rallumer les \u00e9toiles",
+    "image": "//servimg.eyrolles.com/static/media/0492/9782253100492_internet_b400x400.jpg",
+    "auteur": "Virginie Grimaldi",
+    "editeur": "LGF - Le livre de poche",
+    "date": "02/05/2019",
+    "prix": "9"
+  },
+  {
+    "titre": "Les possibles",
+    "image": "//servimg.eyrolles.com/static/media/1966/9782253241966_internet_b400x400.jpg",
+    "auteur": "Virginie Grimaldi",
+    "editeur": "LGF - Le livre de poche",
+    "date": "04/05/2022",
+    "prix": "2"
+  },
+  {
+    "titre": "Le travail, enjeu des retraites",
+    "image": "//servimg.eyrolles.com/static/media/3025/9782843033025_internet_b400x400.jpg",
+    "auteur": "Bernard Friot",
+    "editeur": "La Dispute",
+    "date": "14/03/2019",
+    "prix": "0"
+  },
+  {
+    "titre": "Temp\u00eates et brouillards",
+    "image": "//servimg.eyrolles.com/static/media/7655/9782732497655_internet_b400x400.jpg",
+    "auteur": "Caroline Dorka-Fenech",
+    "editeur": "La Martini\u00e8re",
+    "date": "06/01/2023",
+    "prix": "5"
+  },
+  {
+    "titre": "A un \u00e9tage pr\u00e8s",
+    "image": "//servimg.eyrolles.com/static/media/4796/9782021524796_internet_b400x400.jpg",
+    "auteur": "J\u00e9rome Baccelli",
+    "editeur": "Seuil",
+    "date": "06/01/2023",
+    "prix": "0"
+  },
+  {
+    "titre": "Un coup dans les urnes",
+    "image": "//servimg.eyrolles.com/static/media/6605/9782491506605_internet_b400x400.jpg",
+    "auteur": "Julien Hervieux",
+    "editeur": "Filature(s)",
+    "date": "06/01/2023",
+    "prix": "0"
+  },
+  {
+    "titre": "Parlez-vous le parcoursup ?",
+    "image": "//servimg.eyrolles.com/static/media/5977/9782021525977_internet_b400x400.jpg",
+    "auteur": "Johan Faerber",
+    "editeur": "Seuil",
+    "date": "06/01/2023",
+    "prix": "5"
+  },
+  {
+    "titre": "Le myst\u00e8re de la femme sans t\u00eate",
+    "image": "//servimg.eyrolles.com/static/media/5763/9782021515763_internet_b400x400.jpg",
+    "auteur": "Myriam Leroy",
+    "editeur": "Seuil",
+    "date": "06/01/2023",
+    "prix": "5"
+  },
+  {
+    "titre": "Vivre avec l'invisible",
+    "image": "//servimg.eyrolles.com/static/media/3080/9782361323080_internet_b400x400.jpg",
+    "auteur": "Marie de Hennezel",
+    "editeur": "Versilio",
+    "date": "30/09/2021",
+    "prix": "9"
+  },
+  {
+    "titre": "Une chance am\u00e8re",
+    "image": "//servimg.eyrolles.com/static/media/2595/9782380822595_internet_b400x400.jpg",
+    "auteur": "Anne Carri\u00e8re",
+    "editeur": "Anne Carri\u00e8re",
+    "date": "06/01/2023",
+    "prix": "5"
+  },
+  {
+    "titre": "... et il ressuscita Madonna",
+    "image": "//servimg.eyrolles.com/static/media/9571/9782383269571_internet_b400x400.jpg",
+    "auteur": "John Le Rectangle",
+    "editeur": "Les Trois Colonnes",
+    "date": "23/09/2022",
+    "prix": "5"
+  },
+  {
+    "titre": "Le dernier mot",
+    "image": "//servimg.eyrolles.com/static/media/2728/9782080292728_internet_b400x400.jpg",
+    "auteur": "Virginie Mouzat",
+    "editeur": "Flammarion",
+    "date": "04/01/2023",
+    "prix": "5"
+  },
+  {
+    "titre": "Pour rien au monde",
+    "image": "//servimg.eyrolles.com/static/media/5179/9782253935179_internet_b400x400.jpg",
+    "auteur": "Ken Follett",
+    "editeur": "LGF - Le livre de poche",
+    "date": "04/01/2023",
+    "prix": "9"
+  },
+  {
+    "titre": "D\u00e9sert",
+    "image": "//servimg.eyrolles.com/static/media/6704/9782070376704_internet_b400x400.jpg",
+    "auteur": "Jean-Marie Gustave Le Cl\u00e9zio",
+    "editeur": "Gallimard",
+    "date": "24/09/1985",
+    "prix": "7"
+  },
+  {
+    "titre": "Le proc\u00e8s-verbal",
+    "image": "//servimg.eyrolles.com/static/media/3537/9782070363537_internet_b400x400.jpg",
+    "auteur": "Jean-Marie Gustave Le Cl\u00e9zio",
+    "editeur": "Gallimard",
+    "date": "16/03/1973",
+    "prix": "2"
+  },
+  {
+    "titre": "Verre cass\u00e9",
+    "image": "//servimg.eyrolles.com/static/media/4500/9782757864500_internet_b400x400.jpg",
+    "auteur": "Alain Mabanckou",
+    "editeur": "Seuil",
+    "date": "15/06/2017",
+    "prix": "2"
+  },
+  {
+    "titre": "L'art du baiser",
+    "image": "//servimg.eyrolles.com/static/media/0870/9782070440870_internet_b400x400.jpg",
+    "auteur": "Philippe Sollers",
+    "editeur": "Gallimard",
+    "date": "05/01/2011",
+    "prix": "0"
+  },
+  {
+    "titre": "Par-dessus bord",
+    "image": "//servimg.eyrolles.com/static/media/7448/9782330167448_internet_b400x400.jpg",
+    "auteur": "Michel Vinaver",
+    "editeur": "Actes Sud",
+    "date": "01/06/2022",
+    "prix": "7"
+  },
+  {
+    "titre": "Au gr\u00e9 des jours",
+    "image": "//servimg.eyrolles.com/static/media/9566/9782738139566_internet_b400x400.jpg",
+    "auteur": "Fran\u00e7oise H\u00e9ritier",
+    "editeur": "Odile Jacob",
+    "date": "18/10/2017",
+    "prix": "9"
+  },
+  {
+    "titre": "Retour de service",
+    "image": "//servimg.eyrolles.com/static/media/9251/9782757889251_internet_b400x400.jpg",
+    "auteur": "John Le Carr\u00e9",
+    "editeur": "Seuil",
+    "date": "17/06/2021",
+    "prix": "9"
+  },
+  {
+    "titre": "L'Antarctique",
+    "image": "//servimg.eyrolles.com/static/media/0836/9782848050836_internet_b400x400.jpg",
+    "auteur": "Claire Keegan",
+    "editeur": "Sabine Wespieser \u00e9diteur",
+    "date": "06/05/2010",
+    "prix": "3"
+  },
+  {
+    "titre": "Les trois lumi\u00e8res",
+    "image": "//servimg.eyrolles.com/static/media/0959/9782848050959_internet_b400x400.jpg",
+    "auteur": "Claire Keegan",
+    "editeur": "Sabine Wespieser \u00e9diteur",
+    "date": "07/04/2011",
+    "prix": "2"
+  },
+  {
+    "titre": "Les dangers de fumer au lit",
+    "image": "//servimg.eyrolles.com/static/media/5185/9782364685185_internet_b400x400.jpg",
+    "auteur": "Mariana Enriquez",
+    "editeur": "Editions du sous-sol",
+    "date": "13/01/2023",
+    "prix": "0"
+  },
+  {
+    "titre": "Premier sang",
+    "image": "//servimg.eyrolles.com/static/media/7579/9782253937579_internet_b400x400.jpg",
+    "auteur": "Am\u00e9lie Nothomb",
+    "editeur": "LGF - Le livre de poche",
+    "date": "04/01/2023",
+    "prix": "7"
+  },
+  {
+    "titre": "Fog fighters - Alliance pour une revanche - ruines forest",
+    "image": "//servimg.eyrolles.com/static/media/3389/9782898083389_internet_b400x400.jpg",
+    "auteur": "Ada",
+    "editeur": "Ada",
+    "date": "12/05/2020",
+    "prix": "9"
+  },
+  {
+    "titre": "Poussez, madame !",
+    "image": "//servimg.eyrolles.com/static/media/4120/9782360754120_internet_b400x400.jpg",
+    "auteur": "Sylvie Coch\u00e9",
+    "editeur": "Editions de l'opportun",
+    "date": "03/03/2016",
+    "prix": "9"
+  },
+  {
+    "titre": "Les autodafeurs - Tome 1",
+    "image": "//servimg.eyrolles.com/static/media/6670/9782812606670_internet_b400x400.jpg",
+    "auteur": "Marine Carteron",
+    "editeur": "Editions du Rouergue",
+    "date": "05/05/2014",
+    "prix": "5"
+  },
+  {
+    "titre": "L'enfant du temps",
+    "image": "//servimg.eyrolles.com/static/media/2398/9782266202398_internet_b400x400.jpg",
+    "auteur": "Isaac Asimov",
+    "editeur": "Pocket",
+    "date": "11/03/2010",
+    "prix": "2"
+  },
+  {
+    "titre": "Tableau noir",
+    "image": "//servimg.eyrolles.com/static/media/9917/9782207259917_internet_b400x400.jpg",
+    "auteur": "Iannis Roder",
+    "editeur": "Deno\u00ebl",
+    "date": "01/09/2008",
+    "prix": "9"
+  },
+  {
+    "titre": "Ecrire la vie",
+    "image": "//servimg.eyrolles.com/static/media/2188/9782070132188_internet_b400x400.jpg",
+    "auteur": "Annie Ernaux",
+    "editeur": "Gallimard",
+    "date": "20/10/2011",
+    "prix": "0"
+  },
+  {
+    "titre": "L'incroyable histoire du Canard encha\u00een\u00e9",
+    "image": "//servimg.eyrolles.com/static/media/9791/9782352049791_internet_b400x400.jpg",
+    "auteur": "Didier Convard",
+    "editeur": "Les Ar\u00e8nes",
+    "date": "14/11/2018",
+    "prix": "9"
+  },
+  {
+    "titre": "R\u00e9inventer l'amour",
+    "image": "//servimg.eyrolles.com/static/media/1743/9782355221743_internet_b400x400.jpg",
+    "auteur": "Mona Chollet",
+    "editeur": "Zones",
+    "date": "16/09/2021",
+    "prix": "0"
+  },
+  {
+    "titre": "Le mage du Kremlin",
+    "image": "//servimg.eyrolles.com/static/media/8168/9782072958168_internet_b400x400.jpg",
+    "auteur": "Giuliano Da Empoli",
+    "editeur": "Gallimard",
+    "date": "14/04/2022",
+    "prix": "0"
+  },
+  {
+    "titre": "Le pouvoir de l'humour",
+    "image": "//servimg.eyrolles.com/static/media/8085/9782416008085_internet_b400x400.jpg",
+    "auteur": "Vanessa Marci\u00e9",
+    "editeur": "Eyrolles",
+    "date": "03/11/2022",
+    "prix": "0"
+  },
+  {
+    "titre": "Covid 19, ce que r\u00e9v\u00e8lent les chiffres officiels",
+    "image": "//servimg.eyrolles.com/static/media/1520/9782810011520_internet_b400x400.jpg",
+    "auteur": "Pierre Chaillot",
+    "editeur": "L'artilleur",
+    "date": "18/01/2023",
+    "prix": "0"
+  },
+  {
+    "titre": "Le livre de la jungle",
+    "image": "//servimg.eyrolles.com/static/media/1583/9782081511583_internet_b400x400.jpg",
+    "auteur": "Rudyard Kipling",
+    "editeur": "Rudyard Kipling",
+    "date": "18/11/2020",
+    "prix": "9"
+  },
+  {
+    "titre": "Tant que l'oiseau chantera",
+    "image": "//servimg.eyrolles.com/static/media/9475/9782352169475_internet_b400x400.jpg",
+    "auteur": "Brigitte Apicella",
+    "editeur": "Pers\u00e9e",
+    "date": "01/12/2011",
+    "prix": "9"
+  },
+  {
+    "titre": "Un des plus grands Papes de l'Histoire : Jean XXII",
+    "image": "//servimg.eyrolles.com/static/media/0595/9782307230595_internet_b400x400.jpg",
+    "auteur": "Eug\u00e8ne Sol",
+    "editeur": "Eug\u00e8ne Sol",
+    "date": "01/01/1948",
+    "prix": "9"
+  },
+  {
+    "titre": "L'\u00e9chapp\u00e9e vers la libert\u00e9",
+    "image": "//servimg.eyrolles.com/static/media/6313/9782953646313_internet_b400x400.jpg",
+    "auteur": "Ghislaine Aurore Holmes",
+    "editeur": "Bookelis",
+    "date": "26/07/2021",
+    "prix": "4"
+  },
+  {
+    "titre": "Un instituteur des basses-alpes",
+    "image": "//servimg.eyrolles.com/static/media/4954/9782307514954_internet_b400x400.jpg",
+    "auteur": "Germain Lagier",
+    "editeur": "Germain Lagier",
+    "date": "01/01/1993",
+    "prix": "4"
+  },
+  {
+    "titre": "Abolition",
+    "image": "//servimg.eyrolles.com/static/media/8315/9782221268315_internet_b400x400.jpg",
+    "auteur": "Aymeric Caron",
+    "editeur": "Robert Laffont",
+    "date": "17/11/2022",
+    "prix": "0"
+  },
+  {
+    "titre": "Femmes soldats",
+    "image": "//servimg.eyrolles.com/static/media/0268/9782373010268_internet_b400x400.jpg",
+    "auteur": "Helen Thorpe",
+    "editeur": "JPO",
+    "date": "18/02/2016",
+    "prix": "3"
+  },
+  {
+    "titre": "Oscar Hendrych",
+    "image": "//servimg.eyrolles.com/static/media/0817/9782373010817_internet_b400x400.jpg",
+    "auteur": "Pierre Peyrichout",
+    "editeur": "JPO",
+    "date": "07/06/2018",
+    "prix": "0"
+  },
+  {
+    "titre": "Tout passe",
+    "image": "//servimg.eyrolles.com/static/media/1677/9782267021677_internet_b400x400.jpg",
+    "auteur": "Bernard Comment",
+    "editeur": "Bourgois",
+    "date": "07/04/2011",
+    "prix": "9"
+  },
+  {
+    "titre": "Borgenstein",
+    "image": "//servimg.eyrolles.com/static/media/5965/9782267025965_internet_b400x400.jpg",
+    "auteur": "Sergio Bizzio",
+    "editeur": "Bourgois",
+    "date": "13/02/2014",
+    "prix": "9"
+  },
+  {
+    "titre": "\u00c9loge des \u00e9crivains maudits",
+    "image": "//servimg.eyrolles.com/static/media/6409/9782848766409_internet_b400x400.jpg",
+    "auteur": "Patrick Poivre d'Arvor",
+    "editeur": "Philippe Rey",
+    "date": "05/10/2017",
+    "prix": "0"
+  },
+  {
+    "titre": "Le g\u00e9ant enfoui",
+    "image": "//servimg.eyrolles.com/static/media/5101/9782070465101_internet_b400x400.jpg",
+    "auteur": "Kazuo Ishiguro",
+    "editeur": "Gallimard",
+    "date": "08/04/2016",
+    "prix": "2"
+  },
+  {
+    "titre": "Faire surface",
+    "image": "//servimg.eyrolles.com/static/media/5890/9782221215890_internet_b400x400.jpg",
+    "auteur": "Margaret Atwood",
+    "editeur": "Robert Laffont",
+    "date": "21/09/2017",
+    "prix": "5"
+  },
+  {
+    "titre": "\u00c0 quelle heure braquer la banque",
+    "image": "//servimg.eyrolles.com/static/media/1610/9782807301610_internet_b400x400.jpg",
+    "auteur": "Steven Leviit",
+    "editeur": "De Boeck",
+    "date": "30/09/2016",
+    "prix": "0"
+  },
+  {
+    "titre": "Les Fran\u00e7ais vus par un Belge",
+    "image": "//servimg.eyrolles.com/static/media/9784/9782352049784_internet_b400x400.jpg",
+    "auteur": "Pierre Kroll",
+    "editeur": "Les Ar\u00e8nes",
+    "date": "07/11/2018",
+    "prix": "9"
+  },
+  {
+    "titre": "La lamentation du pr\u00e9puce",
+    "image": "//servimg.eyrolles.com/static/media/8356/9782264048356_internet_b400x400.jpg",
+    "auteur": "Shalom Auslander",
+    "editeur": "10/18",
+    "date": "20/08/2009",
+    "prix": "9"
+  },
+  {
+    "titre": "L'odeur de Yasmine",
+    "image": "//servimg.eyrolles.com/static/media/6111/9789953986111_internet_b400x400.jpg",
+    "auteur": "Mich\u00e8le M. Gharios",
+    "editeur": "Noir blanc et caetera",
+    "date": "01/11/2019",
+    "prix": "0"
+  },
+  {
+    "titre": "Du feu de l'enfer",
+    "image": "//servimg.eyrolles.com/static/media/5699/9782258115699_internet_b400x400.jpg",
+    "auteur": "C\u00e9dric Sire",
+    "editeur": "Presses de la cit\u00e9",
+    "date": "09/03/2017",
+    "prix": "5"
+  },
+  {
+    "titre": "Les hommes qui n'aimaient pas les femmes",
+    "image": "//servimg.eyrolles.com/static/media/1579/9782742761579_internet_b400x400.jpg",
+    "auteur": "Stieg Larsson",
+    "editeur": "Stieg Larsson",
+    "date": "09/06/2006",
+    "prix": "9"
+  },
+  {
+    "titre": "Terrorisme islamiste, recrutement et radicalisation",
+    "image": "//servimg.eyrolles.com/static/media/0367/9782373010367_internet_b400x400.jpg",
+    "auteur": "Jean-Christophe Damaisin d'Ar\u00e8s",
+    "editeur": "JPO",
+    "date": "26/05/2016",
+    "prix": "9"
+  },
+  {
+    "titre": "Z5",
+    "image": "//servimg.eyrolles.com/static/media/8501/9782847618501_internet_b400x400.jpg",
+    "auteur": "Jean-Michel Espitallier",
+    "editeur": "Al Dante",
+    "date": "15/02/2012",
+    "prix": "0"
+  },
+  {
+    "titre": "Froid mortel",
+    "image": "//servimg.eyrolles.com/static/media/5267/9782226245267_internet_b400x400.jpg",
+    "auteur": "Johan Theorin",
+    "editeur": "Albin Michel",
+    "date": "30/01/2013",
+    "prix": "5"
+  },
+  {
+    "titre": "La fabrique des petits bonheurs",
+    "image": "//servimg.eyrolles.com/static/media/5460/9791026235460_internet_b400x400.jpg",
+    "auteur": "Dani\u00e8le Fossette",
+    "editeur": "Librinova",
+    "date": "13/12/2019",
+    "prix": "9"
+  },
+  {
+    "titre": "Qu'est-ce qui nous rend humains ?",
+    "image": "//servimg.eyrolles.com/static/media/2258/9782708242258_internet_b400x400.jpg",
+    "auteur": "Jean-Louis Lamboray",
+    "editeur": "Les Editions de l'Atelier",
+    "date": "19/04/2013",
+    "prix": "9"
+  },
+  {
+    "titre": "L'abyssin",
+    "image": "//servimg.eyrolles.com/static/media/8035/9782070458035_internet_b400x400.jpg",
+    "auteur": "Jean-Christophe Rufin",
+    "editeur": "Gallimard",
+    "date": "27/02/2014",
+    "prix": "5"
+  },
+  {
+    "titre": "The House of Mirth",
+    "image": "//servimg.eyrolles.com/static/media/9023/9780141199023_internet_b400x400.jpg",
+    "auteur": "Penguin",
+    "editeur": "Penguin",
+    "date": "03/07/2013",
+    "prix": "5"
+  },
+  {
+    "titre": "Le coeur mort de nos seigneurs",
+    "image": "//servimg.eyrolles.com/static/media/9490/9782754719490_internet_b400x400.jpg",
+    "auteur": "Sarah Sagot",
+    "editeur": "Editions du Panth\u00e9on",
+    "date": "18/04/2013",
+    "prix": "4"
+  },
+  {
+    "titre": "Pourquoi les Juifs craignent ?",
+    "image": "//servimg.eyrolles.com/static/media/4099/9782754714099_internet_b400x400.jpg",
+    "auteur": "Georges Smadja",
+    "editeur": "Editions du Panth\u00e9on",
+    "date": "29/10/2012",
+    "prix": "9"
+  },
+  {
+    "titre": "Contre l'exploitation animale",
+    "image": "//servimg.eyrolles.com/static/media/9208/9782710789208_internet_b400x400.jpg",
+    "auteur": "Andre-Joseph Bouglione",
+    "editeur": "Tchou",
+    "date": "05/04/2018",
+    "prix": "0"
+  },
+  {
+    "titre": "H\u00e9 bien ! La guerre",
+    "image": "//servimg.eyrolles.com/static/media/2895/9782207252895_internet_b400x400.jpg",
+    "auteur": "Jack-Alain L\u00e9ger",
+    "editeur": "Deno\u00ebl",
+    "date": "11/01/2006",
+    "prix": "9"
+  },
+  {
+    "titre": "Le cycle de Dune - Tome 4 - L'empereur-dieu de Dune",
+    "image": "//servimg.eyrolles.com/static/media/5839/9782266235839_internet_b400x400.jpg",
+    "auteur": "Frank Herbert",
+    "editeur": "Pocket",
+    "date": "22/11/2012",
+    "prix": "5"
+  },
+  {
+    "titre": "Le dernier mot",
+    "image": "//servimg.eyrolles.com/static/media/5835/9782267025835_internet_b400x400.jpg",
+    "auteur": "Hanif Kureishi",
+    "editeur": "Bourgois",
+    "date": "02/01/2014",
+    "prix": "0"
+  },
+  {
+    "titre": "Le cycle de Dune - Tome 3 - Les enfants de dune",
+    "image": "//servimg.eyrolles.com/static/media/5822/9782266235822_internet_b400x400.jpg",
+    "auteur": "Frank Herbert",
+    "editeur": "Pocket",
+    "date": "22/11/2012",
+    "prix": "2"
+  },
+  {
+    "titre": "D\u00e9sorientale",
+    "image": "//servimg.eyrolles.com/static/media/9954/9782867469954_internet_b400x400.jpg",
+    "auteur": "Negar Djavadi",
+    "editeur": "Liana Levi",
+    "date": "05/04/2018",
+    "prix": "0"
+  },
+  {
+    "titre": "Sentinelles",
+    "image": "//servimg.eyrolles.com/static/media/4418/9782267024418_internet_b400x400.jpg",
+    "auteur": "C\u00e9cile Wajsbrot",
+    "editeur": "Bourgois",
+    "date": "07/02/2013",
+    "prix": "9"
+  },
+  {
+    "titre": "La nuit des b\u00e9guines",
+    "image": "//servimg.eyrolles.com/static/media/0602/9791034900602_internet_b400x400.jpg",
+    "auteur": "Aline Kiner",
+    "editeur": "Liana Levi",
+    "date": "20/09/2018",
+    "prix": "0"
+  },
+  {
+    "titre": "Ce que cache ton nom",
+    "image": "//servimg.eyrolles.com/static/media/6470/9782501076470_internet_b400x400.jpg",
+    "auteur": "Clara Sanchez",
+    "editeur": "Marabout",
+    "date": "26/09/2012",
+    "prix": "9"
+  },
+  {
+    "titre": "Vingt-quatre heures de la vie d'une femme",
+    "image": "//servimg.eyrolles.com/static/media/2899/9782266242899_internet_b400x400.jpg",
+    "auteur": "Stefan Zweig",
+    "editeur": "Pocket",
+    "date": "03/04/2014",
+    "prix": "4"
+  },
+  {
+    "titre": "Perla",
+    "image": "//servimg.eyrolles.com/static/media/0272/9782234060272_internet_b400x400.jpg",
+    "auteur": "Fr\u00e9d\u00e9ric Brun",
+    "editeur": "Stock",
+    "date": "21/02/2007",
+    "prix": "9"
+  },
+  {
+    "titre": "Tout cela, je te le donnerai",
+    "image": "//servimg.eyrolles.com/static/media/7785/9782265117785_internet_b400x400.jpg",
+    "auteur": "Dolores Redondo",
+    "editeur": "Fleuve",
+    "date": "12/04/2018",
+    "prix": "9"
+  },
+  {
+    "titre": "Courir sur la faille",
+    "image": "//servimg.eyrolles.com/static/media/8997/9782264058997_internet_b400x400.jpg",
+    "auteur": "Naomi Benaron",
+    "editeur": "10/18",
+    "date": "14/08/2013",
+    "prix": "9"
+  },
+  {
+    "titre": "1Q84 - Livre 3",
+    "image": "//servimg.eyrolles.com/static/media/9856/9782714449856_internet_b400x400.jpg",
+    "auteur": "Haruki Murakami",
+    "editeur": "Belfond",
+    "date": "01/03/2012",
+    "prix": "5"
+  },
+  {
+    "titre": "1Q84 - Livre 1",
+    "image": "//servimg.eyrolles.com/static/media/7074/9782714447074_internet_b400x400.jpg",
+    "auteur": "Haruki Murakami",
+    "editeur": "Belfond",
+    "date": "25/08/2011",
+    "prix": "5"
+  },
+  {
+    "titre": "Le rabbin congel\u00e9",
+    "image": "//servimg.eyrolles.com/static/media/3046/9782746733046_internet_b400x400.jpg",
+    "auteur": "Steve Stern",
+    "editeur": "Autrement",
+    "date": "18/08/2012",
+    "prix": "9"
+  },
+  {
+    "titre": "The real life of Sebastian Knight",
+    "image": "//servimg.eyrolles.com/static/media/5996/9780141185996_internet_b400x400.jpg",
+    "auteur": "Penguin",
+    "editeur": "Penguin",
+    "date": "25/01/2007",
+    "prix": "5"
+  },
+  {
+    "titre": "En attendant bojangles",
+    "image": "//servimg.eyrolles.com/static/media/4812/9782072844812_internet_b400x400.jpg",
+    "auteur": "Olivier Bourdeaut",
+    "editeur": "Gallimard",
+    "date": "04/04/2019",
+    "prix": "5"
+  }
+]

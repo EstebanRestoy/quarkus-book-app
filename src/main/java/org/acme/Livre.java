@@ -1,29 +1,21 @@
 package org.acme;
 
-import javax.persistence.Entity;
-
-import io.quarkus.hibernate.orm.panache.PanacheEntity;
-
-@Entity
-public class Livre extends PanacheEntity {
+public class Livre {
     private String titre;
     private String auteur;
     private String editeur;
+    private String image;
     private String date;
-    private Float prix;
+    private String prix;
 
-    public Livre(String titre, String auteur, String editeur, String date, Float prix) {
+    public Livre(String titre, String auteur, String editeur, String image, String date, String prix) {
         this.titre = titre;
         this.auteur = auteur;
         this.editeur = editeur;
+        this.image = image;
         this.date = date;
         this.prix = prix;
     }
-
-    public Livre() {
-
-    }
-
 
     public String getTitre() {
         return titre;
@@ -37,11 +29,15 @@ public class Livre extends PanacheEntity {
         return editeur;
     }
 
+    public String getImage() {
+        return image;
+    }
+
     public String getDate() {
         return date;
     }
 
-    public Float getPrix() {
+    public String getPrix() {
         return prix;
     }
 
@@ -51,8 +47,9 @@ public class Livre extends PanacheEntity {
                 "titre='" + titre + '\'' +
                 ", auteur='" + auteur + '\'' +
                 ", editeur='" + editeur + '\'' +
+                ", image='" + image + '\'' +
                 ", date='" + date + '\'' +
-                ", prix=" + prix +
+                ", prix='" + prix + '\'' +
                 '}';
     }
 }
