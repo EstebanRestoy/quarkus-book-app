@@ -16,11 +16,11 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-@Path("/hello")
+@Path("/")
 public class Accueil {
     @CheckedTemplate
     public static class Templates {
-        public static native TemplateInstance hello(List<Livre> books);
+        public static native TemplateInstance accueil(List<Livre> books);
     }
 
     @GET
@@ -40,6 +40,6 @@ public class Accueil {
             books.add(new Livre(jsonObject.getString("titre"), jsonObject.getString("auteur"), jsonObject.getString("editeur"), jsonObject.getString("image"), jsonObject.getString("date"), jsonObject.getString("prix")));
         }
         // Return the template with the list of books
-        return Templates.hello(books);
+        return Templates.accueil(books);
     }
 }
