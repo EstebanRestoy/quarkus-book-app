@@ -16,7 +16,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-@Path("/")
+@Path("/accueil")
 public class Accueil {
     @CheckedTemplate
     public static class Templates {
