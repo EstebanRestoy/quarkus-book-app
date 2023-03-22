@@ -36,6 +36,11 @@
             font-size: 1rem;
         }
 
+        .titre{
+            min-height: 45%;
+            max-height: 45%;
+        }
+
     </style>
 </head>
 <body style="margin: 0 15% 0 15%">
@@ -124,10 +129,10 @@
                 <div class="relative h-0" style="padding-top: 150%;">
                     <img class="absolute top-0 left-0 w-full h-full object-cover" src="{book.image}" alt="Livre">
                 </div>
-                <div class="p-4">
-                    <h2 class="text-lg font-semibold text-gray-800">{book.titre}</h2>
-                    <p class="text-sm text-gray-700 mt-2">{book.date}</p>
-                    <div class="mt-4 flex justify-between items-center">
+                <div class="p-3 flex flex-col h-36 justify-between">
+                    <h2 class="text-lg font-semibold text-gray-800 titre">{book.titre}</h2>
+                    <p class="text-sm text-gray-700 pt-6">{book.date}</p>
+                    <div class="flex justify-between items-center">
                         <span class="text-gray-600 text-sm">
                             {#if book.prix == "0"}
                                 <b>Gratuit</b>
@@ -142,5 +147,6 @@
         {/for}
     </div>
 </div>
+
 </body>
 </html>
