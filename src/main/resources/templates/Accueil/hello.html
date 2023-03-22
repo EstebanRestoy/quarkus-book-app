@@ -127,7 +127,13 @@
                     <h2 class="text-lg font-semibold text-gray-800">{book.titre}</h2>
                     <p class="text-sm text-gray-700 mt-2">{book.date}</p>
                     <div class="mt-4 flex justify-between items-center">
-                        <span class="text-gray-600 text-sm">{book.prix}€</span>
+                        <span class="text-gray-600 text-sm">
+                            {#if book.prix == "0"}
+                                <b>Gratuit</b>
+                            {#else}
+                                <b>{book.prix}€</b>
+                            {/if}
+                        </span>
                         <button class="px-3 py-1 bg-gray-800 text-white text-xs font-medium rounded">Ajouter au panier</button>
                     </div>
                 </div>
