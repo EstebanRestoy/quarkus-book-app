@@ -39,6 +39,7 @@ public class Accueil {
         Bucket bucket = storage.get("book-app-db-esteban");
         System.out.println("Bucket: " + bucket);
         Blob blob = bucket.get("books.json");
+        System.out.println("Blob: " + blob);
 //        Store the blob data in a JsonArray
         JsonArray booksArray = new JsonArray(Collections.singletonList(blob.getContent()));
 //        Create a list of books
