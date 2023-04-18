@@ -40,6 +40,7 @@ public class Accueil {
         System.out.println("Bucket: " + bucket);
         Blob blob = bucket.get("books.json");
         System.out.println("Blob: " + blob);
+        System.out.println("Blob content: " + blob.getContent());
 //        Store the blob data in a JsonArray
         JsonArray booksArray = new JsonArray(Collections.singletonList(blob.getContent()));
 //        Create a list of books
