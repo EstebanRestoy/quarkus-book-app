@@ -36,11 +36,10 @@
             font-size: 1rem;
         }
 
-        .titre{
+        .titre {
             min-height: 45%;
             max-height: 45%;
         }
-
     </style>
 </head>
 <body style="margin: 0 15% 0 15%">
@@ -126,23 +125,23 @@
     <div class="grid grid-cols-4 gap-4">
         {#for book in books}
             <div class="bg-white rounded-md shadow-lg overflow-hidden ">
-                <div class="relative h-0" style="padding-top: 150%;">
-                    <img class="absolute top-0 left-0 w-full h-full object-cover" src="{book.image}" alt="Livre">
-                </div>
-                <div class="p-3 flex flex-col h-36 justify-between">
-                    <h2 class="text-lg font-semibold text-gray-800 titre">{book.titre}</h2>
-                    <p class="text-sm text-gray-700 pt-6">{book.date}</p>
-                    <div class="flex justify-between items-center">
-                        <span class="text-gray-600 text-sm">
-                            {#if book.prix == "0"}
-                                <b>Gratuit</b>
-                            {#else}
-                                <b>{book.prix}€</b>
-                            {/if}
-                        </span>
-                        <button class="px-3 py-1 bg-gray-800 text-white text-xs font-medium rounded">Ajouter au panier</button>
-                    </div>
-                </div>
+            <div class="relative h-0" style="padding-top: 150%;">
+                <img class="absolute top-0 left-0 w-full h-full object-cover" src="{book.image}" alt="Livre">
+            </div>
+            <div class="p-3 flex flex-col h-36 justify-between">
+            <h2 class="text-lg font-semibold text-gray-800 titre">{book.titre}</h2>
+            <p class="text-sm text-gray-700 pt-6">{book.date}</p>
+            <div class="flex justify-between items-center">
+            <span class="text-gray-600 text-sm">
+            {#if book.prix == "0"}
+                <b>Gratuit</b>
+            {#else}
+                <b>{book.prix}€</b>
+            {/if}
+            </span>
+            <button class="px-3 py-1 bg-gray-800 text-white text-xs font-medium rounded">Ajouter au panier</button>
+            </div>
+            </div>
             </div>
         {/for}
     </div>
