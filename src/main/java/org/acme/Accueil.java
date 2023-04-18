@@ -36,7 +36,7 @@ public class Accueil {
     @GET
     @Produces(MediaType.TEXT_HTML)
     public TemplateInstance get(@QueryParam("booksList") String booksList) throws IOException {
-        Bucket bucket = storage.get("book-app-db-romain");
+        Bucket bucket = storage.get("book-app-db-esteban");
         System.out.println("Bucket: " + bucket);
         Blob blob = bucket.get("books.json");
 //        Store the blob data in a JsonArray
