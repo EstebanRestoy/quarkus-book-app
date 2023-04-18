@@ -18,9 +18,11 @@ import java.util.List;
 
 @Path("/accueil")
 public class Accueil {
+
+    public static Boolean newBook = false;
     @CheckedTemplate
     public static class Templates {
-        public static native TemplateInstance accueil(List<Livre> books);
+        public static native TemplateInstance accueil(List<Livre> books, Boolean newBook);
     }
 
     @GET
@@ -40,6 +42,6 @@ public class Accueil {
             books.add(new Livre(jsonObject.getString("titre"), jsonObject.getString("auteur"), jsonObject.getString("editeur"), jsonObject.getString("image"), jsonObject.getString("date"), jsonObject.getString("prix")));
         }
         // Return the template with the list of books
-        return Templates.accueil(books);
+        return Templates.accueil(books, newBook);
     }
 }
